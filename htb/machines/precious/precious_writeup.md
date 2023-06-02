@@ -6,7 +6,6 @@
 
 ```c
 $ sudo nmap -A -T4 -sC -sV 10.129.211.246  
-[sudo] password for kali: 
 Starting Nmap 7.93 ( https://nmap.org ) at 2023-04-09 09:14 UTC
 Nmap scan report for 10.129.211.246
 Host is up (0.13s latency).
