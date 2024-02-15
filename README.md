@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/purplestormctf/writeups/blob/main/files/writeup_banner.png">
+  <img src="https://github.com/purplestormctf/writeups/blob/main/images/writeup_banner.png">
 </p>
 
 # Writeups
