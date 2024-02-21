@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/purplestormctf/writeups/blob/main/images/writeup_banner.png">
+  <img src="images/writeup_banner.png">
 </p>
 
 # Writeups
@@ -12,5 +12,5 @@ This represents our writeup collection of past CTFs, boxes and challenges from v
 
 ## Table of Contents
 
-- [Vulnlab](https://github.com/purplestormctf/writeups/tree/main/vulnlab/)
-- [Hack The Box](https://github.com/purplestormctf/writeups/tree/main/htb/)
+- [Vulnlab](vulnlab)
+- [Hack The Box](htb)
