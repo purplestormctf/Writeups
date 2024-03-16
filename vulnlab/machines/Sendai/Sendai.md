@@ -343,11 +343,6 @@ smb: \>
 ```
 
 ```c
-smb: \> get incident.txt 
-getting file \incident.txt of size 1372 as incident.txt (37.2 KiloBytes/sec) (average 37.2 KiloBytes/sec)
-```
-
-```c
 smb: \> dir
   .                                   D        0  Tue Jul 18 13:31:04 2023
   ..                                DHS        0  Wed Jul 19 10:11:25 2023
@@ -359,6 +354,11 @@ smb: \> dir
   transfer                            D        0  Tue Jul 11 09:00:20 2023
 
                 7309822 blocks of size 4096. 604547 blocks available
+```
+
+```c
+smb: \> get incident.txt 
+getting file \incident.txt of size 1372 as incident.txt (37.2 KiloBytes/sec) (average 37.2 KiloBytes/sec)
 ```
 
 ```c
