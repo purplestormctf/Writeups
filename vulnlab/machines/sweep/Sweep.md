@@ -339,7 +339,7 @@ Info: Establishing connection to remote endpoint
 
 ```c
 *Evil-WinRM* PS C:\> type user.txt
-VL{REDACTED1}
+VL{REDACTED}
 ```
 
 ## Privilege Escalation
