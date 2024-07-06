@@ -15,7 +15,7 @@ tags:
   - LocalPrivilegeEscalation
 ---
 
-![](https://vulnlab-assets.s3.eu-central-1.amazonaws.com/lock_slide.png)
+![](images/lock_slide.png)
 
 ## Summary
 
