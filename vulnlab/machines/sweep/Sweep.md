@@ -1,5 +1,19 @@
+---
+Category: Vulnlab/Machines
+tags:
+  - Vulnlab
+  - Machine
+  - Windows
+  - Medium
+  - Lansweeper
+  - PasswordPolicy
+  - GenericAll
+  - GroupMembership
+  - RIDBruteForcing
+  - SSHCredentialSniffing
+---
 
-![](https://vulnlab-assets.s3.eu-central-1.amazonaws.com/sweep_slide.png)
+![](images/sweep_slide.png)
 
 ## Summary
 
