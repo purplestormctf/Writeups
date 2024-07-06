@@ -19,7 +19,7 @@ tags:
   - DPAPI
 ---
 
-![](https://assets.vulnlab.com/tengu_slide.png)
+![](images/tengu_slide.png)
 
 ## Summary
 
