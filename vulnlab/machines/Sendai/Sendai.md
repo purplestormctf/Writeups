@@ -18,7 +18,7 @@ tags:
   - GMSA
 ---
 
-![](https://vulnlab-assets.s3.eu-central-1.amazonaws.com/sendai_slide.png)
+![](images/sendai_slide.png)
 
 ## Summary
 
