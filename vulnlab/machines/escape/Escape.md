@@ -1,4 +1,16 @@
-![](https://vulnlab-assets.s3.eu-central-1.amazonaws.com/escape_slide.png)
+---
+Category: Vulnlab/Machines
+tags:
+  - Vulnlab
+  - Windows
+  - Easy
+  - RDP
+  - RemoteDesktopPlus
+  - Kiosk
+  - Escape
+---
+
+![](images/escape_slide.png)
 
 ## Summary
 
