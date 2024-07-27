@@ -49,7 +49,7 @@ ffuf -w /usr/share/amass/wordlists/subdomains-top1mil-5000.txt -u http://watcher
 This yields `zabbix.watcher.vl`
 
 Guest login is enabled there. After login we can see a dashboard where it states the zabbix version as `Zabbix version 7.0.0alpha1`.
-There is a [RCE vulnerability]([https://gridinsoft.com/blogs/zabbix-sqli-vulnerability/](https://gridinsoft.com/blogs/zabbix-sqli-vulnerability/ "https://gridinsoft.com/blogs/zabbix-sqli-vulnerability/")) for this version. A [POC is available on Github]([https://github.com/W01fh4cker/CVE-2024-22120-RCE](https://github.com/W01fh4cker/CVE-2024-22120-RCE "https://github.com/W01fh4cker/CVE-2024-22120-RCE")) 
+There is a [RCE vulnerability](https://gridinsoft.com/blogs/zabbix-sqli-vulnerability/) for this version. A [POC is available on Github](https://github.com/W01fh4cker/CVE-2024-22120-RCE) 
 
 To get the `hostid` we can navigate to Inventory -> Hosts . There is only one with a hostid of `10084` which can be found as a query parameter after clicking on the host.
 The `sessionid` can be found in cookie, by base64 decoding it.
@@ -107,32 +107,33 @@ We now have creds:
 - `Frank`:`REDACTED`
 
 We can now use those creds to access Teamcity. We now just need to create a pipeline giving us a shell:
-Create a new project:![[images/new-project.png]]
-![[images/create-project.png]]
+Create a new project:
+![new-project](images/new-project.png)
+![create-project](images/create-project.png)
 
 On the page we now get redirected to there is a Button `Create Build Configuration`
-![[images/create-build-config.png]]
+![create-build-config](images/create-build-config.png)
 
 Just enter a name and save
-![[images/create-build-config-save.png]]
+![create-build-config-save](images/create-build-config-save.png)
 
 Then skip the VCS integration
-![[images/vs-skip.png]]
+![vs-skip](images/vs-skip.png)
 
 Then in the BuildConfiguration switch to BuildSteps in the navbar on the left:
-![[images/create-build-config.png]]
-![[images/create-build-config-save.png]]
+![create-build-config](images/create-build-config.png)
+![create-build-config-save](images/create-build-config-save.png)
 There you can add a build step:
-![[images/add-build-step.png]]
+![add-build-step](images/add-build-step.png)
 
 Select `Command Line` as type:
-![[images/cmd-line.png]]
+![cmd-line](images/cmd-line.png)
 
 Then we enter reverse shell command in the Custom Script box:
-![[images/cmd-line2.png]]
+![cmd-line2](images/cmd-line2.png)
 
 Then save and click run on the top:
-![[images/run-build.png]]
+![run-build](images/run-build.png)
 
 After a few seconds a revshell as root will get sent to our host.
 
