@@ -151,6 +151,41 @@
 
 # Non Seasonal Machines
 
+<table>
+<tr>
+  <th></th>
+  <th></th>
+  <th></th>
+</tr>
+<tr>
+<td>
+  
+| | |
+| ------------- | ------------- |
+| <img src="icons/non/" height="25px" width="25px"> | []()|
+
+
+</td>
+
+<td>
+  
+| | |
+| ------------- | ------------- |
+| <img src="icons/non/" height="25px" width="25px"> | []()|
+
+
+</td>
+
+<td>
+  
+| | |
+| ------------- | ------------- |
+| <img src="icons/non/" height="25px" width="25px"> | []()|
+
+</td>
+</tr>
+</table>
+
 
 
 </div>
