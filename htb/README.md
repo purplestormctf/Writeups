@@ -71,19 +71,19 @@
   
 | | |
 | ------------- | ------------- |
-| <img src="icons/s2/" height="25px" width="25px"> | []() |
-| <img src="icons/s2/" height="25px" width="25px"> | []() |
-| <img src="icons/s2/" height="25px" width="25px"> | []() |
-| <img src="icons/s2/" height="25px" width="25px"> | []() |
-| <img src="icons/s2/" height="25px" width="25px"> | []() |
-| <img src="icons/s2/" height="25px" width="25px"> | []() |
-| <img src="icons/s2/" height="25px" width="25px"> | []() |
-| <img src="icons/s2/" height="25px" width="25px"> | []() |
-| <img src="icons/s2/" height="25px" width="25px"> | []() |
-| <img src="icons/s2/" height="25px" width="25px"> | []() |
-| <img src="icons/s2/" height="25px" width="25px"> | []() |
-| <img src="icons/s2/" height="25px" width="25px"> | []() |
-| <img src="icons/s2/" height="25px" width="25px"> | []() |
+| <img src="icons/s2/2ad5dcb2fb97e40f5e88a0d6fc569bdd.png" height="25px" width="25px"> | [Rebound]() |
+| <img src="icons/s2/eaed7cd01e84ef5c6ec7d949d1d61110.png" height="25px" width="25px"> | [CozyHosting]() |
+| <img src="icons/s2/03e875ef2a39c9a2bd7538b3cfcd9b8a.png" height="25px" width="25px"> | [Zipping]() |
+| <img src="icons/s2/38a821c5dd3aa320904bb4b068601e9b.png" height="25px" width="25px"> | [Cybermonday]() |
+| <img src="icons/s2/b56a5742b99e2568fa167765b1323370.png" height="25px" width="25px"> | [Keeper]() |
+| <img src="icons/s2/524874d3b6fc2574ee2f6293f2bff5de.png" height="25px" width="25px"> | [Download]() |
+| <img src="icons/s2/b17f988091019d5cb2d398db061eb732.png" height="25px" width="25px"> | [Gofer]() |
+| <img src="icons/s2/a7f6d497c768ff770389b00e31150652.webp" height="25px" width="25px"> | [RegistryTwo]() |
+| <img src="icons/s2/e6257bbacb2ddd56f5703bb61eadd8cb.png" height="25px" width="25px"> | [Authority]() |
+| <img src="icons/s2/1ea2980b9dc2d11cf6a3f82f10ba8702.png" height="25px" width="25px"> | [Sau]() |
+| <img src="icons/s2/f51a05c5eceb08937686766c1b7de0cc.png" height="25px" width="25px"> | [Intentions]() |
+| <img src="icons/s2/33632db6c1f4323a58452d8fcfc7eee0.png" height="25px" width="25px"> | [Pilgrimage]() |
+| <img src="icons/s2/93c53cc1fc0284e5d9d74a565a8b9bf0.png" height="25px" width="25px"> | [Sandworm]() |
   
 </td>
 
