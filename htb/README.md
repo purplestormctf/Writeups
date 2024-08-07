@@ -17,7 +17,19 @@
   
 | | |
 | ------------- | ------------- |
-| x | x | 
+| <img src="icons/s4/84669b838a8633d26f4a2d90a6069f7e.webp" height="25px" width="25px"> | [Mist]()|
+| <img src="icons/s4/26e076db204a74b99390e586d7ebcf8c.webp" height="25px" width="25px"> | [Headless]()|
+| <img src="icons/s4/16c5889acc1ca177c6b343c76bebcdaf.webp" height="25px" width="25px"> | [WifineticTwo ]()|
+| <img src="icons/s4/897faece9f60bf69d8e109833f63da48.webp" height="25px" width="25px"> | [FormulaX ]()|
+| <img src="icons/s4/57fc0f58916cb3ed8e793db071769d70.webp" height="25px" width="25px"> | [Perfection]()|
+| <img src="icons/s4/e809e8df8d66ec8bb2ca3bbcc1942de7.webp" height="25px" width="25px"> | [Jab]()|
+| <img src="icons/s4/2cdef06b99725f3dcce38431a95b7b77.webp" height="25px" width="25px"> | [Office]()|
+| <img src="icons/s4/c01c8813bfc7795ae0717bbee7b407d1.png" height="25px" width="25px"> | [Crafty]()|
+| <img src="icons/s4/e43c6cdfe71e56188e5c2c4f39f5c180.png" height="25px" width="25px"> | [Skyfall]()|
+| <img src="icons/s4/a36f80aa6bc43863512ec9537c4366c9.png" height="25px" width="25px"> | [Pov]()|
+| <img src="icons/s4/c31f19a4d6a3be17987a3ef98e2446a5.png" height="25px" width="25px"> | [Analysis]()|
+| <img src="icons/s4/d4988810825d26acb2e84ca0ac9feaf4.png" height="25px" width="25px"> | [Monitored]()|
+| <img src="icons/s4/1919b64800f6676d0c0d285a9d664cee.png" height="25px" width="25px"> | [Bizness]()|
 
 </td>
 
@@ -25,15 +37,42 @@
   
 | | |
 | ------------- | ------------- |
-| x | x | 
-
+<!---
+| <img src="icons/s5/" height="25px" width="25px"> | []()|
+| <img src="icons/s5/" height="25px" width="25px"> | []()|
+| <img src="icons/s5/" height="25px" width="25px"> | []()|
+| <img src="icons/s5/" height="25px" width="25px"> | []()|
+| <img src="icons/s5/" height="25px" width="25px"> | []()|
+| <img src="icons/s5/" height="25px" width="25px"> | []()|
+| <img src="icons/s5/" height="25px" width="25px"> | []()|
+| <img src="icons/s5/" height="25px" width="25px"> | []()|
+| <img src="icons/s5/" height="25px" width="25px"> | []()|
+| <img src="icons/s5/" height="25px" width="25px"> | []()|
+| <img src="icons/s5/" height="25px" width="25px"> | []()|
+| <img src="icons/s5/" height="25px" width="25px"> | []()|
+| <img src="icons/s5/" height="25px" width="25px"> | []()|
+--->
 </td>
 
 <td>
   
 | | |
 | ------------- | ------------- |
-| x | x | 
+<!---
+| <img src="icons/s6/" height="25px" width="25px"> | []()|
+| <img src="icons/s6/" height="25px" width="25px"> | []()|
+| <img src="icons/s6/" height="25px" width="25px"> | []()|
+| <img src="icons/s6/" height="25px" width="25px"> | []()|
+| <img src="icons/s6/" height="25px" width="25px"> | []()|
+| <img src="icons/s6/" height="25px" width="25px"> | []()|
+| <img src="icons/s6/" height="25px" width="25px"> | []()|
+| <img src="icons/s6/" height="25px" width="25px"> | []()|
+| <img src="icons/s6/" height="25px" width="25px"> | []()|
+| <img src="icons/s6/" height="25px" width="25px"> | []()|
+| <img src="icons/s6/" height="25px" width="25px"> | []()|
+| <img src="icons/s6/" height="25px" width="25px"> | []()|
+| <img src="icons/s6/" height="25px" width="25px"> | []()|
+--->
 
 </td>
 </tr>
