@@ -37,21 +37,20 @@
   
 | | |
 | ------------- | ------------- |
-<!---
-| <img src="icons/s5/" height="25px" width="25px"> | []()|
-| <img src="icons/s5/" height="25px" width="25px"> | []()|
-| <img src="icons/s5/" height="25px" width="25px"> | []()|
-| <img src="icons/s5/" height="25px" width="25px"> | []()|
-| <img src="icons/s5/" height="25px" width="25px"> | []()|
-| <img src="icons/s5/" height="25px" width="25px"> | []()|
-| <img src="icons/s5/" height="25px" width="25px"> | []()|
-| <img src="icons/s5/" height="25px" width="25px"> | []()|
-| <img src="icons/s5/" height="25px" width="25px"> | []()|
-| <img src="icons/s5/" height="25px" width="25px"> | []()|
-| <img src="icons/s5/" height="25px" width="25px"> | []()|
-| <img src="icons/s5/" height="25px" width="25px"> | []()|
-| <img src="icons/s5/" height="25px" width="25px"> | []()|
---->
+| <img src="icons/s5/38f90738d0433b8adf27036f18ecf91e.webp" height="25px" width="25px"> | [Ghost]()|
+| <img src="icons/s5/3ec233f1bf70b096a66f8a452e7cd52f.webp" height="25px" width="25px"> | [PermX]()|
+| <img src="icons/s5/3ad1911c18a46af0d6967aef8521989c.webp" height="25px" width="25px"> | [Blazorized]()|
+| <img src="icons/s5/e6052efa31516d5aa9c78831509bcedd.webp" height="25px" width="25px"> | [Axlle]()|
+| <img src="icons/s5/a466db5ce4f7aaea98f588d1cb71a0aa.webp" height="25px" width="25px"> | [Editorial]()|
+| <img src="icons/s5/344998b24aad421410cabf912d3dc3af.webp" height="25px" width="25px"> | [Blurry]()|
+| <img src="icons/s5/cc3c525e7837e7e95d0da9b6596e7a30.webp" height="25px" width="25px"> | [Freelancer]()|
+| <img src="icons/s5/7768afed979c9abe917b0c20df49ceb8.webp" height="25px" width="25px"> | [BoardLight]()|
+| <img src="icons/s5/a878db048e3cb6ba0e4a467bb705e145.webp" height="25px" width="25px"> | [MagicGardens]()|
+| <img src="icons/s5/a2c2bd7b4e98ff8b782ed590896305a1.webp" height="25px" width="25px"> | [SolarLab]()|
+| <img src="icons/s5/cedb2f991409f9f39b55b04513f6b102.webp" height="25px" width="25px"> | [Mailing ]()|
+| <img src="icons/s5/464537cc0d3e9962fc598767bff7b1f1.webp" height="25px" width="25px"> | [Intuition]()|
+| <img src="icons/s5/029d258b4444bc4226b90b1f8f27d086.webp" height="25px" width="25px"> | [Runner]()|
+
 </td>
 
 <td>
