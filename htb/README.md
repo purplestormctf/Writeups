@@ -8,9 +8,9 @@
 
 <table>
 <tr>
-  <th>Season 4 </th>
-  <th>Season 5 </th>
-  <th>Season 6 </th>
+  <th>Season 4 <br> - </th>
+  <th>Season 5 <br> - </th>
+  <th>Season 6 <br> - </th>
 </tr>
 <tr>
 <td>
@@ -43,9 +43,9 @@
 
 <table>
 <tr>
-  <th>Season 1 <br> 04 Mar 2023 - 27 May 2023</th>
-  <th>Season 2</th>
-  <th>Season 3</th>
+  <th>Season 1 <br>04 Mar 2023 - 27 May 2023</th>
+  <th>Season 2 <br>17 Jun 2023 - 09 Sep 2023 </th>
+  <th>Season 3 <br>07 Oct 2023  - 16 Dec 2023  </th>
 </tr>
 <tr>
 <td>
@@ -91,19 +91,19 @@
   
 | | |
 | ------------- | ------------- |
-| <img src="icons/s3/" height="25px" width="25px"> | []() |
-| <img src="icons/s3/" height="25px" width="25px"> | []() |
-| <img src="icons/s3/" height="25px" width="25px"> | []() |
-| <img src="icons/s3/" height="25px" width="25px"> | []() |
-| <img src="icons/s3/" height="25px" width="25px"> | []() |
-| <img src="icons/s3/" height="25px" width="25px"> | []() |
-| <img src="icons/s3/" height="25px" width="25px"> | []() |
-| <img src="icons/s3/" height="25px" width="25px"> | []() |
-| <img src="icons/s3/" height="25px" width="25px"> | []() |
-| <img src="icons/s3/" height="25px" width="25px"> | []() |
-| <img src="icons/s3/" height="25px" width="25px"> | []() |
-| <img src="icons/s3/" height="25px" width="25px"> | []() |
-| <img src="icons/s3/" height="25px" width="25px"> | []() |
+| <img src="icons/s3/380bc40d3a6bd3ba99da465177e8593e.webp" height="25px" width="25px"> | [Corporate]() |
+| <img src="icons/s3/a75ac8ed04e6e728547538bfa41cfc68.png" height="25px" width="25px"> | [Visual]() |
+| <img src="icons/s3/d2ddffcb2eced6a4d5486dc99d440d1a.png" height="25px" width="25px"> | [Surveillance]() |
+| <img src="icons/s3/50788eb40c2464d6554a3cb15bd2e301.png" height="25px" width="25px"> | [Ouija]() |
+| <img src="icons/s3/2565d292772abc4a2d774117cf4d36ff.png" height="25px" width="25px"> | [Devvortex]() |
+| <img src="icons/s3/e980d18b909fa0ba8f519cf9777fd413.png" height="25px" width="25px"> | [Hospital]() |
+| <img src="icons/s3/e936dbb185607fb8957679b26b0a0930.webp" height="25px" width="25px"> | [Napper]() |
+| <img src="icons/s3/57b977ea744af01a5454c8643a850e59.png" height="25px" width="25px"> | [Codify]() |
+| <img src="icons/s3/3637f8cd2b3850f40cb6d16b7c39d43b.png" height="25px" width="25px"> | [Appsanity]() |
+| <img src="icons/s3/5ca8f0c721a9eca6f1aeb9ff4b4bac60.png" height="25px" width="25px"> | [Manager]() |
+| <img src="icons/s3/03cea0fc2ebc50151c0dfa9e375e3ded.png" height="25px" width="25px"> | [Search]() |
+| <img src="icons/s3/69894bcbc09fb85054b71bdc805f86bc.png" height="25px" width="25px"> | [Drive]() |
+| <img src="icons/s3/f86fcf4c1cfcc690b43f43e100f89718.png" height="25px" width="25px"> | [Analytics]() |
 
 
 </td>
