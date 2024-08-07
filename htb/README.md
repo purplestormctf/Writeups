@@ -150,49 +150,12 @@
 </table>
 
 # Non Seasonal Machines
-
-<table>
-<tr>
-  <th></th>
-  <th></th>
-  <th></th>
-</tr>
-<tr>
-<td>
   
-| | |
-| ------------- | ------------- |
-| <img src="icons/non/750ba886c8a87103c69cac0f13f2de70.webp" height="25px" width="25px"> | [IClean](https://github.com/purplestormctf/Writeups/tree/main/htb/machines/IClean)|
-| <img src="icons/non/80936664b3da83a92b28602e79e47d79.png" height="25px" width="25px"> | [Escape](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/escape/escape_writeup.md)|
-| <img src="icons/non/ca7f69a02eebf53deb3cd1611dd3f55e.png" height="25px" width="25px"> | [Soccer](https://github.com/purplestormctf/Writeups/tree/main/htb/machines/soccer)|
-
-
-</td>
-
-<td>
-  
-| | |
-| ------------- | ------------- |
-| <img src="icons/non/e886bd88cf5e6db3ddc0ede99aa85530.png" height="25px" width="25px"> | [Bagel](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/bagel/bagel_writeup.md)|
-| <img src="icons/non/caac8772de14a769c0bfe95756bceebe.png" height="25px" width="25px"> | [Pollution](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/pollution/pollution_writeup.md)|
-| <img src="icons/non/da052d0b0efd6dad222ba4a73d987c16.png" height="25px" width="25px"> | [Stocker](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/stocker/stocker_writeup.md)|
-
-
-
-</td>
-
-<td>
-  
-| | |
-| ------------- | ------------- |
-| <img src="icons/non/5a89d213ede5af4b4f94035fd059f976.webp" height="25px" width="25px"> | [Clicker](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/clicker/clicker_writeup.md)|
-| <img src="icons/non/3adcfd6093f8ddb4dffe8422da6377c8.png" height="25px" width="25px"> | [Precious](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/precious/precious_writeup.md)|
-| <img src="icons/non/cbfa26b4a4044677e93779a44bbd458f.png" height="25px" width="25px"> | [Topology](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/topology/topology_writeup.md)|
-
-
-</td>
-</tr>
-</table>
+| | | | | | | | |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| <img src="icons/non/5a89d213ede5af4b4f94035fd059f976.webp" height="25px" width="25px"> | [Clicker](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/clicker/clicker_writeup.md)| | <img src="icons/non/e886bd88cf5e6db3ddc0ede99aa85530.png" height="25px" width="25px"> | [Bagel](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/bagel/bagel_writeup.md)| | <img src="icons/non/3adcfd6093f8ddb4dffe8422da6377c8.png" height="25px" width="25px"> | [Precious](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/precious/precious_writeup.md)|
+| <img src="icons/non/caac8772de14a769c0bfe95756bceebe.png" height="25px" width="25px"> | [Pollution](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/pollution/pollution_writeup.md)| | <img src="icons/non/cbfa26b4a4044677e93779a44bbd458f.png" height="25px" width="25px"> | [Topology](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/topology/topology_writeup.md)|  | <img src="icons/non/da052d0b0efd6dad222ba4a73d987c16.png" height="25px" width="25px"> | [Stocker](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/stocker/stocker_writeup.md)|
+| <img src="icons/non/750ba886c8a87103c69cac0f13f2de70.webp" height="25px" width="25px"> | [IClean](https://github.com/purplestormctf/Writeups/tree/main/htb/machines/IClean)| | <img src="icons/non/80936664b3da83a92b28602e79e47d79.png" height="25px" width="25px"> | [Escape](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/escape/escape_writeup.md)| | <img src="icons/non/ca7f69a02eebf53deb3cd1611dd3f55e.png" height="25px" width="25px"> | [Soccer](https://github.com/purplestormctf/Writeups/tree/main/htb/machines/soccer)|
 
 
 
