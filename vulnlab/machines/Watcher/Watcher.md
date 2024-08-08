@@ -106,7 +106,14 @@ Then we get a request to our server after a few minutes:
 We now have creds:
 - `Frank`:`REDACTED`
 
-We can now use those creds to access Teamcity. We now just need to create a pipeline giving us a shell:
+We can now use those creds to access Teamcity. 
+<br>
+There is a agent running. Just open the terminal on this one and you can run system commands as root. 
+
+![create-build-config](images/agent.png)
+
+The other way is creating a pipeline to get a shell.
+<br>
 Create a new project:
 ![new-project](images/new-project.png)
 ![create-project](images/create-project.png)
