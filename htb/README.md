@@ -37,21 +37,19 @@
 
 | | |
 | ------------- | ------------- |
-<!---
-| <img src="icons/s5/38f90738d0433b8adf27036f18ecf91e.webp" height="25px" width="25px"> | [Ghost]()|
-| <img src="icons/s5/3ec233f1bf70b096a66f8a452e7cd52f.webp" height="25px" width="25px"> | [PermX]()|
-| <img src="icons/s5/3ad1911c18a46af0d6967aef8521989c.webp" height="25px" width="25px"> | [Blazorized]()|
-| <img src="icons/s5/e6052efa31516d5aa9c78831509bcedd.webp" height="25px" width="25px"> | [Axlle]()|
-| <img src="icons/s5/a466db5ce4f7aaea98f588d1cb71a0aa.webp" height="25px" width="25px"> | [Editorial]()|
-| <img src="icons/s5/344998b24aad421410cabf912d3dc3af.webp" height="25px" width="25px"> | [Blurry]()|
-| <img src="icons/s5/cc3c525e7837e7e95d0da9b6596e7a30.webp" height="25px" width="25px"> | [Freelancer]()|
-| <img src="icons/s5/7768afed979c9abe917b0c20df49ceb8.webp" height="25px" width="25px"> | [BoardLight]()|
-| <img src="icons/s5/a878db048e3cb6ba0e4a467bb705e145.webp" height="25px" width="25px"> | [MagicGardens]()|
-| <img src="icons/s5/a2c2bd7b4e98ff8b782ed590896305a1.webp" height="25px" width="25px"> | [SolarLab]()|
-| <img src="icons/s5/cedb2f991409f9f39b55b04513f6b102.webp" height="25px" width="25px"> | [Mailing ]()|
-| <img src="icons/s5/464537cc0d3e9962fc598767bff7b1f1.webp" height="25px" width="25px"> | [Intuition]()|
-| <img src="icons/s5/029d258b4444bc4226b90b1f8f27d086.webp" height="25px" width="25px"> | [Runner]()|
---->
+| <img src="icons/s5/38f90738d0433b8adf27036f18ecf91e.webp" height="25px" width="25px"> | Ghost|
+| <img src="icons/s5/3ec233f1bf70b096a66f8a452e7cd52f.webp" height="25px" width="25px"> | PermX|
+| <img src="icons/s5/3ad1911c18a46af0d6967aef8521989c.webp" height="25px" width="25px"> | Blazorized|
+| <img src="icons/s5/e6052efa31516d5aa9c78831509bcedd.webp" height="25px" width="25px"> | Axlle|
+| <img src="icons/s5/a466db5ce4f7aaea98f588d1cb71a0aa.webp" height="25px" width="25px"> | Editorial|
+| <img src="icons/s5/344998b24aad421410cabf912d3dc3af.webp" height="25px" width="25px"> | Blurry|
+| <img src="icons/s5/cc3c525e7837e7e95d0da9b6596e7a30.webp" height="25px" width="25px"> | Freelancer|
+| <img src="icons/s5/7768afed979c9abe917b0c20df49ceb8.webp" height="25px" width="25px"> | BoardLight|
+| <img src="icons/s5/a878db048e3cb6ba0e4a467bb705e145.webp" height="25px" width="25px"> | MagicGardens|
+| <img src="icons/s5/a2c2bd7b4e98ff8b782ed590896305a1.webp" height="25px" width="25px"> | SolarLab|
+| <img src="icons/s5/cedb2f991409f9f39b55b04513f6b102.webp" height="25px" width="25px"> | Mailing|
+| <img src="icons/s5/464537cc0d3e9962fc598767bff7b1f1.webp" height="25px" width="25px"> | Intuition|
+| <img src="icons/s5/029d258b4444bc4226b90b1f8f27d086.webp" height="25px" width="25px"> | Runner|
 </td>
 
 <td>
@@ -91,19 +89,19 @@
   
 | | |
 | ------------- | ------------- |
-| <img src="icons/s1/f0c89af6ee134e1b432d95e4528cf0cd.png" height="25px" width="25px">  | Bookworm | 
+| <img src="icons/s1/f0c89af6ee134e1b432d95e4528cf0cd.png" height="25px" width="25px">  | [Bookworm](https://github.com/InfoSec-Crow/Writeups/blob/main/htb/machines/Bookworm/Bookworm.md) | 
 | <img src="icons/s1/6d08e5f1919c77c0497213377f635e08.png" height="25px" width="25px"> | [PC](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/pc/pc_writeup.md) |
 | <img src="icons/s1/acdbb2202a5db5ed5103524fb80cf9cd.png" height="25px" width="25px"> | [Format](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/format/format_writeup.md) |
-| <img src="icons/s1/dad63a6e9acecb328beab54e35644220.png" height="25px" width="25px"> | Snoopy |
+| <img src="icons/s1/dad63a6e9acecb328beab54e35644220.png" height="25px" width="25px"> | [Snoopy](https://github.com/InfoSec-Crow/Writeups/blob/main/htb/machines/Snoopy/Snoopy.md) |
 | <img src="icons/s1/b55987f8ef9a42df2ad4b4c096e3824d.png" height="25px" width="25px"> | [MonitorsTwo](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/monitorstwo/monitorstwo_writeup.md) |
-| <img src="icons/s1/5147467f5bb0d84eff614fd4ef2f7c23.png" height="25px" width="25px"> | OnlyForYou |
-| <img src="icons/s1/2d055b1ccac1cebea1cb624e77ab4ded.png" height="25px" width="25px"> | Mailroom |
+| <img src="icons/s1/5147467f5bb0d84eff614fd4ef2f7c23.png" height="25px" width="25px"> | [OnlyForYou](https://github.com/InfoSec-Crow/Writeups/blob/main/htb/machines/OnlyForYou/OnlyForYou.md) |
+| <img src="icons/s1/2d055b1ccac1cebea1cb624e77ab4ded.png" height="25px" width="25px"> | [Mailroom](https://github.com/InfoSec-Crow/Writeups/blob/main/htb/machines/Mailroom/Mailroom.md) |
 | <img src="icons/s1/a6942ab57b6a79f71240420442027334.png" height="25px" width="25px"> | [Busqueda](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/busqueda/busqueda_writeup_hacking_thursday.md) |
 | <img src="icons/s1/30fc6acef9d23aa9fd71277123c64f24.png" height="25px" width="25px"> | [Coder](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/coder/Coder.md) |
-| <img src="icons/s1/9a73cabc03399aaac0640a0148e3a371.png" height="25px" width="25px"> | Socket |
-| <img src="icons/s1/0ec0d1f3e6e5f8602892e310c28079e6.png" height="25px" width="25px"> | Cerberus |
+| <img src="icons/s1/9a73cabc03399aaac0640a0148e3a371.png" height="25px" width="25px"> | [Socket](https://github.com/InfoSec-Crow/Writeups/blob/main/htb/machines/Socket/Socket.md) |
+| <img src="icons/s1/0ec0d1f3e6e5f8602892e310c28079e6.png" height="25px" width="25px"> | [Cerberus](https://github.com/InfoSec-Crow/Writeups/blob/main/htb/machines/Cerberus/Cerberus.md) |
 | <img src="icons/s1/285ba8819710b6ae1f67bc0e5914ffd9.png" height="25px" width="25px"> | [Inject](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/inject/inject_writeup_hacking_thursday.md) |
-| <img src="icons/s1/8fa064016362fbfce91b5de54b7e7f7e.webp" height="25px" width="25px"> | Agile |
+| <img src="icons/s1/8fa064016362fbfce91b5de54b7e7f7e.webp" height="25px" width="25px"> | [Agile](https://github.com/InfoSec-Crow/Writeups/blob/main/htb/machines/Agile/Agile.md) |
 </td>
 
 <td>
@@ -133,14 +131,14 @@
 | <img src="icons/s3/380bc40d3a6bd3ba99da465177e8593e.webp" height="25px" width="25px"> | Corporate |
 | <img src="icons/s3/a75ac8ed04e6e728547538bfa41cfc68.png" height="25px" width="25px"> | [Visual](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/visual/visual_writeup.md) |
 | <img src="icons/s3/d2ddffcb2eced6a4d5486dc99d440d1a.png" height="25px" width="25px"> | [Surveillance](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/surveillance/surveillance_writeup.md) |
-| <img src="icons/s3/50788eb40c2464d6554a3cb15bd2e301.png" height="25px" width="25px"> | Ouija |
+| <img src="icons/s3/50788eb40c2464d6554a3cb15bd2e301.png" height="25px" width="25px"> | [Ouija](https://github.com/InfoSec-Crow/Writeups/blob/main/htb/machines/Ouija/Ouija.md) |
 | <img src="icons/s3/2565d292772abc4a2d774117cf4d36ff.png" height="25px" width="25px"> | [Devvortex](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/devvortex/devvortex_writeup.md) |
 | <img src="icons/s3/e980d18b909fa0ba8f519cf9777fd413.png" height="25px" width="25px"> | [Hospital](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/hospital/hospital_writeup.md) |
 | <img src="icons/s3/e936dbb185607fb8957679b26b0a0930.webp" height="25px" width="25px"> | [Napper](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/napper/napper_writeup.md) |
 | <img src="icons/s3/57b977ea744af01a5454c8643a850e59.png" height="25px" width="25px"> | [Codify](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/codify/codify_writeup.md) |
 | <img src="icons/s3/3637f8cd2b3850f40cb6d16b7c39d43b.png" height="25px" width="25px"> | [Appsanity](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/appsanity/appsanity_writeup.md) |
 | <img src="icons/s3/5ca8f0c721a9eca6f1aeb9ff4b4bac60.png" height="25px" width="25px"> | [Manager](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/manager/manager_writeup.md) |
-| <img src="icons/s3/03cea0fc2ebc50151c0dfa9e375e3ded.png" height="25px" width="25px"> | Search |
+| <img src="icons/s3/03cea0fc2ebc50151c0dfa9e375e3ded.png" height="25px" width="25px"> | [Search](https://github.com/InfoSec-Crow/Writeups/blob/main/htb/machines/Search/Search.md) |
 | <img src="icons/s3/69894bcbc09fb85054b71bdc805f86bc.png" height="25px" width="25px"> | [Drive](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/drive/drive_writeup.md) |
 | <img src="icons/s3/f86fcf4c1cfcc690b43f43e100f89718.png" height="25px" width="25px"> | [Analytics](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/analytics/analytics_writeup.md) |
 
@@ -150,16 +148,38 @@
 </table>
 
 # Non Seasonal Machines
-  
-| | | | | | | | |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| <img src="icons/non/5a89d213ede5af4b4f94035fd059f976.webp" height="25px" width="25px"> | [Clicker](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/clicker/clicker_writeup.md)| | <img src="icons/non/e886bd88cf5e6db3ddc0ede99aa85530.png" height="25px" width="25px"> | [Bagel](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/bagel/bagel_writeup.md)| | <img src="icons/non/3adcfd6093f8ddb4dffe8422da6377c8.png" height="25px" width="25px"> | [Precious](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/precious/precious_writeup.md)|
-| <img src="icons/non/caac8772de14a769c0bfe95756bceebe.png" height="25px" width="25px"> | [Pollution](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/pollution/pollution_writeup.md)| | <img src="icons/non/cbfa26b4a4044677e93779a44bbd458f.png" height="25px" width="25px"> | [Topology](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/topology/topology_writeup.md)|  | <img src="icons/non/da052d0b0efd6dad222ba4a73d987c16.png" height="25px" width="25px"> | [Stocker](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/stocker/stocker_writeup.md)|
-| <img src="icons/non/750ba886c8a87103c69cac0f13f2de70.webp" height="25px" width="25px"> | [IClean](https://github.com/purplestormctf/Writeups/tree/main/htb/machines/IClean)| | <img src="icons/non/80936664b3da83a92b28602e79e47d79.png" height="25px" width="25px"> | [Escape](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/escape/escape_writeup.md)| | <img src="icons/non/ca7f69a02eebf53deb3cd1611dd3f55e.png" height="25px" width="25px"> | [Soccer](https://github.com/purplestormctf/Writeups/tree/main/htb/machines/soccer)|
-| | | | | | | | |
 
-<!---
-| <img src="icons/non/" height="25px" width="25px"> | []()| | <img src="icons/non/" height="25px" width="25px"> | []()| | <img src="icons/non/" height="25px" width="25px"> | []()|
---->
+<table>
+<tr>
+<td>
+
+| | | 
+| ------------- | ------------- | 
+| <img src="icons/non/5a89d213ede5af4b4f94035fd059f976.webp" height="25px" width="25px">| [Clicker](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/clicker/clicker_writeup.md)| 
+| <img src="icons/non/e886bd88cf5e6db3ddc0ede99aa85530.png" height="25px" width="25px"> | [Bagel](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/bagel/bagel_writeup.md)| 
+| <img src="icons/non/3adcfd6093f8ddb4dffe8422da6377c8.png" height="25px" width="25px"> | [Precious](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/precious/precious_writeup.md)|
+| <img src="icons/non/23e804513a47e8f20bc865d0419946e1.webp" height="25px" width="25px"> | [Usage](https://github.com/InfoSec-Crow/Writeups/blob/main/htb/machines/Usage/Usage.md)|
+
+</td>
+<td>
+  
+| | | 
+| ------------- | ------------- | 
+| <img src="icons/non/caac8772de14a769c0bfe95756bceebe.png" height="25px" width="25px"> | [Pollution](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/pollution/pollution_writeup.md)| 
+| <img src="icons/non/cbfa26b4a4044677e93779a44bbd458f.png" height="25px" width="25px"> | [Topology](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/topology/topology_writeup.md)| 
+| <img src="icons/non/da052d0b0efd6dad222ba4a73d987c16.png" height="25px" width="25px"> | [Stocker](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/stocker/stocker_writeup.md)|
+
+</td>
+<td>
+
+| | | 
+| ------------- | ------------- | 
+| <img src="icons/non/750ba886c8a87103c69cac0f13f2de70.webp" height="25px" width="25px">| [IClean](https://github.com/purplestormctf/Writeups/tree/main/htb/machines/IClean)| 
+| <img src="icons/non/80936664b3da83a92b28602e79e47d79.png" height="25px" width="25px"> | [Escape](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/escape/escape_writeup.md)| 
+| <img src="icons/non/ca7f69a02eebf53deb3cd1611dd3f55e.png" height="25px" width="25px"> | [Soccer](https://github.com/purplestormctf/Writeups/tree/main/htb/machines/soccer)|
+
+</td>
+</tr>
+</table>
 
 </div>
