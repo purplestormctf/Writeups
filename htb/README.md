@@ -18,18 +18,18 @@
 | | |
 | ------------- | ------------- |
 | <img src="icons/s4/84669b838a8633d26f4a2d90a6069f7e.webp" height="25px" width="25px"> | Mist |
-| <img src="icons/s4/26e076db204a74b99390e586d7ebcf8c.webp" height="25px" width="25px"> | [Headless](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Headless/Headless.md)|
-| <img src="icons/s4/16c5889acc1ca177c6b343c76bebcdaf.webp" height="25px" width="25px"> | [WifineticTwo ](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/WifineticTwo/WifineticTwo.md)|
-| <img src="icons/s4/897faece9f60bf69d8e109833f63da48.webp" height="25px" width="25px"> | FormulaX |
-| <img src="icons/s4/57fc0f58916cb3ed8e793db071769d70.webp" height="25px" width="25px"> | [Perfection](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Perfection/Perfection.md)|
-| <img src="icons/s4/e809e8df8d66ec8bb2ca3bbcc1942de7.webp" height="25px" width="25px"> | [Jab](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Jab/Jab.md)|
-| <img src="icons/s4/2cdef06b99725f3dcce38431a95b7b77.webp" height="25px" width="25px"> | [Office](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Office/Office.md)|
-| <img src="icons/s4/c01c8813bfc7795ae0717bbee7b407d1.png" height="25px" width="25px"> | [Crafty](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Crafty/Crafty.md)|
+| <img src="icons/s4/26e076db204a74b99390e586d7ebcf8c.webp" height="25px" width="25px"> | [Headless](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Headless/Headless.md) |
+| <img src="icons/s4/16c5889acc1ca177c6b343c76bebcdaf.webp" height="25px" width="25px"> | [WifineticTwo ](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/WifineticTwo/WifineticTwo.md) |
+| <img src="icons/s4/897faece9f60bf69d8e109833f63da48.webp" height="25px" width="25px"> | [FormulaX](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/FormulaX/FormulaX.md) |
+| <img src="icons/s4/57fc0f58916cb3ed8e793db071769d70.webp" height="25px" width="25px"> | [Perfection](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Perfection/Perfection.md) |
+| <img src="icons/s4/e809e8df8d66ec8bb2ca3bbcc1942de7.webp" height="25px" width="25px"> | [Jab](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Jab/Jab.md) |
+| <img src="icons/s4/2cdef06b99725f3dcce38431a95b7b77.webp" height="25px" width="25px"> | [Office](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Office/Office.md) |
+| <img src="icons/s4/c01c8813bfc7795ae0717bbee7b407d1.png" height="25px" width="25px"> | [Crafty](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Crafty/Crafty.md) |
 | <img src="icons/s4/e43c6cdfe71e56188e5c2c4f39f5c180.png" height="25px" width="25px"> | Skyfall |
-| <img src="icons/s4/a36f80aa6bc43863512ec9537c4366c9.png" height="25px" width="25px"> | [Pov](https://github.com/purplestormctf/Writeups/tree/main/htb/machines/pov)|
-| <img src="icons/s4/c31f19a4d6a3be17987a3ef98e2446a5.png" height="25px" width="25px"> | [Analysis](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/analysis/analysis_writeup.md)|
-| <img src="icons/s4/d4988810825d26acb2e84ca0ac9feaf4.png" height="25px" width="25px"> | [Monitored](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/monitored/monitored_writeup.md)|
-| <img src="icons/s4/1919b64800f6676d0c0d285a9d664cee.png" height="25px" width="25px"> | [Bizness](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/bizness/bizness_writeup.md)|
+| <img src="icons/s4/a36f80aa6bc43863512ec9537c4366c9.png" height="25px" width="25px"> | [Pov](https://github.com/purplestormctf/Writeups/tree/main/htb/machines/pov) |
+| <img src="icons/s4/c31f19a4d6a3be17987a3ef98e2446a5.png" height="25px" width="25px"> | [Analysis](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/analysis/analysis_writeup.md) |
+| <img src="icons/s4/d4988810825d26acb2e84ca0ac9feaf4.png" height="25px" width="25px"> | [Monitored](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/monitored/monitored_writeup.md) |
+| <img src="icons/s4/1919b64800f6676d0c0d285a9d664cee.png" height="25px" width="25px"> | [Bizness](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/bizness/bizness_writeup.md) |
 
 </td>
 
@@ -37,19 +37,19 @@
 
 | | |
 | ------------- | ------------- |
-| <img src="icons/s5/38f90738d0433b8adf27036f18ecf91e.webp" height="25px" width="25px"> | Ghost|
-| <img src="icons/s5/3ec233f1bf70b096a66f8a452e7cd52f.webp" height="25px" width="25px"> | PermX|
-| <img src="icons/s5/3ad1911c18a46af0d6967aef8521989c.webp" height="25px" width="25px"> | Blazorized|
-| <img src="icons/s5/e6052efa31516d5aa9c78831509bcedd.webp" height="25px" width="25px"> | Axlle|
-| <img src="icons/s5/a466db5ce4f7aaea98f588d1cb71a0aa.webp" height="25px" width="25px"> | Editorial|
-| <img src="icons/s5/344998b24aad421410cabf912d3dc3af.webp" height="25px" width="25px"> | Blurry|
-| <img src="icons/s5/cc3c525e7837e7e95d0da9b6596e7a30.webp" height="25px" width="25px"> | Freelancer|
-| <img src="icons/s5/7768afed979c9abe917b0c20df49ceb8.webp" height="25px" width="25px"> | BoardLight|
-| <img src="icons/s5/a878db048e3cb6ba0e4a467bb705e145.webp" height="25px" width="25px"> | MagicGardens|
-| <img src="icons/s5/a2c2bd7b4e98ff8b782ed590896305a1.webp" height="25px" width="25px"> | SolarLab|
-| <img src="icons/s5/cedb2f991409f9f39b55b04513f6b102.webp" height="25px" width="25px"> | Mailing|
-| <img src="icons/s5/464537cc0d3e9962fc598767bff7b1f1.webp" height="25px" width="25px"> | Intuition|
-| <img src="icons/s5/029d258b4444bc4226b90b1f8f27d086.webp" height="25px" width="25px"> | Runner|
+| <img src="icons/s5/38f90738d0433b8adf27036f18ecf91e.webp" height="25px" width="25px"> | Ghost |
+| <img src="icons/s5/3ec233f1bf70b096a66f8a452e7cd52f.webp" height="25px" width="25px"> | PermX |
+| <img src="icons/s5/3ad1911c18a46af0d6967aef8521989c.webp" height="25px" width="25px"> | Blazorized |
+| <img src="icons/s5/e6052efa31516d5aa9c78831509bcedd.webp" height="25px" width="25px"> | Axlle |
+| <img src="icons/s5/a466db5ce4f7aaea98f588d1cb71a0aa.webp" height="25px" width="25px"> | Editorial |
+| <img src="icons/s5/344998b24aad421410cabf912d3dc3af.webp" height="25px" width="25px"> | Blurry |
+| <img src="icons/s5/cc3c525e7837e7e95d0da9b6596e7a30.webp" height="25px" width="25px"> | Freelancer |
+| <img src="icons/s5/7768afed979c9abe917b0c20df49ceb8.webp" height="25px" width="25px"> | BoardLight |
+| <img src="icons/s5/a878db048e3cb6ba0e4a467bb705e145.webp" height="25px" width="25px"> | MagicGardens |
+| <img src="icons/s5/a2c2bd7b4e98ff8b782ed590896305a1.webp" height="25px" width="25px"> | SolarLab |
+| <img src="icons/s5/cedb2f991409f9f39b55b04513f6b102.webp" height="25px" width="25px"> | Mailing |
+| <img src="icons/s5/464537cc0d3e9962fc598767bff7b1f1.webp" height="25px" width="25px"> | Intuition |
+| <img src="icons/s5/029d258b4444bc4226b90b1f8f27d086.webp" height="25px" width="25px"> | Runner |
 </td>
 
 <td>
@@ -57,19 +57,19 @@
 | | |
 | ------------- | ------------- |
 <!---
-| <img src="icons/s6/" height="25px" width="25px"> | []()|
-| <img src="icons/s6/" height="25px" width="25px"> | []()|
-| <img src="icons/s6/" height="25px" width="25px"> | []()|
-| <img src="icons/s6/" height="25px" width="25px"> | []()|
-| <img src="icons/s6/" height="25px" width="25px"> | []()|
-| <img src="icons/s6/" height="25px" width="25px"> | []()|
-| <img src="icons/s6/" height="25px" width="25px"> | []()|
-| <img src="icons/s6/" height="25px" width="25px"> | []()|
-| <img src="icons/s6/" height="25px" width="25px"> | []()|
-| <img src="icons/s6/" height="25px" width="25px"> | []()|
-| <img src="icons/s6/" height="25px" width="25px"> | []()|
-| <img src="icons/s6/" height="25px" width="25px"> | []()|
-| <img src="icons/s6/" height="25px" width="25px"> | []()|
+| <img src="icons/s6/" height="25px" width="25px"> | []() |
+| <img src="icons/s6/" height="25px" width="25px"> | []() |
+| <img src="icons/s6/" height="25px" width="25px"> | []() |
+| <img src="icons/s6/" height="25px" width="25px"> | []() |
+| <img src="icons/s6/" height="25px" width="25px"> | []() |
+| <img src="icons/s6/" height="25px" width="25px"> | []() |
+| <img src="icons/s6/" height="25px" width="25px"> | []() |
+| <img src="icons/s6/" height="25px" width="25px"> | []() |
+| <img src="icons/s6/" height="25px" width="25px"> | []() |
+| <img src="icons/s6/" height="25px" width="25px"> | []() |
+| <img src="icons/s6/" height="25px" width="25px"> | []() |
+| <img src="icons/s6/" height="25px" width="25px"> | []() |
+| <img src="icons/s6/" height="25px" width="25px"> | []() |
 --->
 
 </td>
@@ -155,28 +155,28 @@
 
 | | | 
 | ------------- | ------------- | 
-| <img src="icons/non/5a89d213ede5af4b4f94035fd059f976.webp" height="25px" width="25px">| [Clicker](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/clicker/clicker_writeup.md)| 
-| <img src="icons/non/e886bd88cf5e6db3ddc0ede99aa85530.png" height="25px" width="25px"> | [Bagel](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/bagel/bagel_writeup.md)| 
-| <img src="icons/non/3adcfd6093f8ddb4dffe8422da6377c8.png" height="25px" width="25px"> | [Precious](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/precious/precious_writeup.md)|
-| <img src="icons/non/23e804513a47e8f20bc865d0419946e1.webp" height="25px" width="25px"> | [Usage](https://github.com/InfoSec-Crow/Writeups/blob/main/htb/machines/Usage/Usage.md)|
+| <img src="icons/non/5a89d213ede5af4b4f94035fd059f976.webp" height="25px" width="25px">| [Clicker](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/clicker/clicker_writeup.md) |
+| <img src="icons/non/e886bd88cf5e6db3ddc0ede99aa85530.png" height="25px" width="25px"> | [Bagel](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/bagel/bagel_writeup.md) |
+| <img src="icons/non/3adcfd6093f8ddb4dffe8422da6377c8.png" height="25px" width="25px"> | [Precious](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/precious/precious_writeup.md) |
+| <img src="icons/non/23e804513a47e8f20bc865d0419946e1.webp" height="25px" width="25px"> | [Usage](https://github.com/InfoSec-Crow/Writeups/blob/main/htb/machines/Usage/Usage.md) |
 
 </td>
 <td>
   
 | | | 
 | ------------- | ------------- | 
-| <img src="icons/non/caac8772de14a769c0bfe95756bceebe.png" height="25px" width="25px"> | [Pollution](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/pollution/pollution_writeup.md)| 
-| <img src="icons/non/cbfa26b4a4044677e93779a44bbd458f.png" height="25px" width="25px"> | [Topology](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/topology/topology_writeup.md)| 
-| <img src="icons/non/da052d0b0efd6dad222ba4a73d987c16.png" height="25px" width="25px"> | [Stocker](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/stocker/stocker_writeup.md)|
+| <img src="icons/non/caac8772de14a769c0bfe95756bceebe.png" height="25px" width="25px"> | [Pollution](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/pollution/pollution_writeup.md) |
+| <img src="icons/non/cbfa26b4a4044677e93779a44bbd458f.png" height="25px" width="25px"> | [Topology](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/topology/topology_writeup.md) |
+| <img src="icons/non/da052d0b0efd6dad222ba4a73d987c16.png" height="25px" width="25px"> | [Stocker](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/stocker/stocker_writeup.md) |
 
 </td>
 <td>
 
 | | | 
 | ------------- | ------------- | 
-| <img src="icons/non/750ba886c8a87103c69cac0f13f2de70.webp" height="25px" width="25px">| [IClean](https://github.com/purplestormctf/Writeups/tree/main/htb/machines/IClean)| 
-| <img src="icons/non/80936664b3da83a92b28602e79e47d79.png" height="25px" width="25px"> | [Escape](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/escape/escape_writeup.md)| 
-| <img src="icons/non/ca7f69a02eebf53deb3cd1611dd3f55e.png" height="25px" width="25px"> | [Soccer](https://github.com/purplestormctf/Writeups/tree/main/htb/machines/soccer)|
+| <img src="icons/non/750ba886c8a87103c69cac0f13f2de70.webp" height="25px" width="25px">| [IClean](https://github.com/purplestormctf/Writeups/tree/main/htb/machines/IClean) |
+| <img src="icons/non/80936664b3da83a92b28602e79e47d79.png" height="25px" width="25px"> | [Escape](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/escape/escape_writeup.md) |
+| <img src="icons/non/ca7f69a02eebf53deb3cd1611dd3f55e.png" height="25px" width="25px"> | [Soccer](https://github.com/purplestormctf/Writeups/tree/main/htb/machines/soccer) |
 
 </td>
 </tr>
