@@ -49,7 +49,7 @@
 | <img src="icons/s5/a2c2bd7b4e98ff8b782ed590896305a1.webp" height="25px" width="25px"> | SolarLab |
 | <img src="icons/s5/cedb2f991409f9f39b55b04513f6b102.webp" height="25px" width="25px"> | Mailing |
 | <img src="icons/s5/464537cc0d3e9962fc598767bff7b1f1.webp" height="25px" width="25px"> | Intuition |
-| <img src="icons/s5/029d258b4444bc4226b90b1f8f27d086.webp" height="25px" width="25px"> | Runner |
+| <img src="icons/s5/029d258b4444bc4226b90b1f8f27d086.webp" height="25px" width="25px"> | [Runner](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Runner/Runner.md) |
 </td>
 
 <td>
