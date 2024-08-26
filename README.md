@@ -10,10 +10,10 @@
 This represents our writeup collection of past CTFs, boxes and challenges from various platforms.
 </br>
 > [!IMPORTANT]  
-> Our team supports and is mainly active on [Vulnlab](https://www.vulnlab.com/).</br>
-> Shoutout to [xct](https://twitter.com/xct_de) for this excellent platform!
+> We add writeups as we find time to create them.</br>
+> Not every box will be covered.
 
 ## Table of Contents
 
-- [Vulnlab](vulnlab)
 - [Hack The Box](htb)
+- [Vulnlab](vulnlab)
