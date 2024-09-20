@@ -28,7 +28,7 @@ The box offers the possibility to check whether a `website` is `up` or `down` by
 - [Reconnaissance](#Reconnaissance)
     - [Port Scanning](#Port-Scanning)
     - [Enumeration of Port 80/TCP](#Enumeration-of-Port-80-TCP)
-- [Server-Side Request Forgery (SSRF)](#Server-Side-Request-Forgery-(SSRF))
+- [Server-Side Request Forgery (SSRF)](#Server-Side-Request-Forgery-SSRF)
 - [Abusing URL Parser](#Abusing-URL-Parser)
 - [Foothold](#Foothold)
 - [user.txt](#usertxt)
