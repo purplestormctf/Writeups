@@ -44,7 +44,7 @@
 | <img src="icons/s5/a466db5ce4f7aaea98f588d1cb71a0aa.webp" height="25px" width="25px"> | Editorial |
 | <img src="icons/s5/344998b24aad421410cabf912d3dc3af.webp" height="25px" width="25px"> | Blurry |
 | <img src="icons/s5/cc3c525e7837e7e95d0da9b6596e7a30.webp" height="25px" width="25px"> | Freelancer |
-| <img src="icons/s5/7768afed979c9abe917b0c20df49ceb8.webp" height="25px" width="25px"> | BoardLight |
+| <img src="icons/s5/7768afed979c9abe917b0c20df49ceb8.webp" height="25px" width="25px"> | [BoardLight](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/BoardLight/BoardLight.md) |
 | <img src="icons/s5/a878db048e3cb6ba0e4a467bb705e145.webp" height="25px" width="25px"> | MagicGardens |
 | <img src="icons/s5/a2c2bd7b4e98ff8b782ed590896305a1.webp" height="25px" width="25px"> | SolarLab |
 | <img src="icons/s5/cedb2f991409f9f39b55b04513f6b102.webp" height="25px" width="25px"> | [Mailing](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Mailing/Mailing.md) |
