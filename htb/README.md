@@ -32,7 +32,6 @@
 | <img src="icons/s4/1919b64800f6676d0c0d285a9d664cee.png" height="25px" width="25px"> | [Bizness](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/bizness/bizness_writeup.md) |
 
 </td>
-
 <td>
 
 | | |
@@ -50,32 +49,50 @@
 | <img src="icons/s5/cedb2f991409f9f39b55b04513f6b102.webp" height="25px" width="25px"> | [Mailing](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Mailing/Mailing.md) |
 | <img src="icons/s5/464537cc0d3e9962fc598767bff7b1f1.webp" height="25px" width="25px"> | Intuition |
 | <img src="icons/s5/029d258b4444bc4226b90b1f8f27d086.webp" height="25px" width="25px"> | [Runner](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Runner/Runner.md) |
-</td>
 
+</td>
 <td>
   
 | | |
 | ------------- | ------------- |
+| <img src="icons/s6/e83ac2321955bd2e0beb788d47fa5ae9.webp" height="25px" width="25px"> | Resource |
+| <img src="icons/s6/0011f6725aed869f8683589cb08c90d0.webp" height="25px" width="25px"> | Sea |
+| <img src="icons/s6/d2e8271977fdc3f13bee7d7ab48954ca.webp" height="25px" width="25px"> | Lantern |
+| <img src="icons/s6/a9c8709743c935ae079e3b04d9304c99.webp" height="25px" width="25px"> | MonitorsThree |
+| <img src="icons/s6/dc36c40fe951cf7f32a84f3da1b43ce8.webp" height="25px" width="25px"> | Infiltrator |
+| <img src="icons/s6/f96160a20e9cf0138885238444b47404.webp" height="25px" width="25px"> | Sightless |
+| <img src="icons/s6/d3cb6edd2a219f122696655d0015b101.webp" height="25px" width="25px"> | Caption |
+| <img src="icons/s6/0eff5f0d7d2208024e519e5abfb132d0.webp" height="25px" width="25px"> | Trickster |
+| <img src="icons/s6/79616a32a057e5e672dadb51bb96dd04.webp" height="25px" width="25px"> | Cicada |
+| <img src="icons/s6/5ca57613886666c4c33ef23876b3f054.webp" height="25px" width="25px"> | Yummy |
+| <img src="icons/s6/" height="25px" width="25px"> | n/a |
+| <img src="icons/s6/" height="25px" width="25px"> | n/a |
+| <img src="icons/s6/" height="25px" width="25px"> | n/a |
+
+</td>
+<td>
+  
 <!---
-| <img src="icons/s6/" height="25px" width="25px"> | []() |
-| <img src="icons/s6/" height="25px" width="25px"> | []() |
-| <img src="icons/s6/" height="25px" width="25px"> | []() |
-| <img src="icons/s6/" height="25px" width="25px"> | []() |
-| <img src="icons/s6/" height="25px" width="25px"> | []() |
-| <img src="icons/s6/" height="25px" width="25px"> | []() |
-| <img src="icons/s6/" height="25px" width="25px"> | []() |
-| <img src="icons/s6/" height="25px" width="25px"> | []() |
-| <img src="icons/s6/" height="25px" width="25px"> | []() |
-| <img src="icons/s6/" height="25px" width="25px"> | []() |
-| <img src="icons/s6/" height="25px" width="25px"> | []() |
-| <img src="icons/s6/" height="25px" width="25px"> | []() |
-| <img src="icons/s6/" height="25px" width="25px"> | []() |
+| | |
+| ------------- | ------------- |
+| <img src="icons/s7/" height="25px" width="25px"> | []() |
+| <img src="icons/s7/" height="25px" width="25px"> | []() |
+| <img src="icons/s7/" height="25px" width="25px"> | []() |
+| <img src="icons/s7/" height="25px" width="25px"> | []() |
+| <img src="icons/s7/" height="25px" width="25px"> | []() |
+| <img src="icons/s7/" height="25px" width="25px"> | []() |
+| <img src="icons/s7/" height="25px" width="25px"> | []() |
+| <img src="icons/s7/" height="25px" width="25px"> | []() |
+| <img src="icons/s7/" height="25px" width="25px"> | []() |
+| <img src="icons/s7/" height="25px" width="25px"> | []() |
+| <img src="icons/s7/" height="25px" width="25px"> | []() |
+| <img src="icons/s7/" height="25px" width="25px"> | []() |
+| <img src="icons/s7/" height="25px" width="25px"> | []() |
 --->
 
 </td>
 </tr>
 </table>
-
 
 
 <table>
@@ -89,7 +106,7 @@
   
 | | |
 | ------------- | ------------- |
-| <img src="icons/s1/f0c89af6ee134e1b432d95e4528cf0cd.png" height="25px" width="25px">  | [Bookworm](https://github.com/InfoSec-Crow/Writeups/blob/main/htb/machines/Bookworm/Bookworm.md) | 
+| <img src="icons/s1/f0c89af6ee134e1b432d95e4528cf0cd.png" height="25px" width="25px"> | [Bookworm](https://github.com/InfoSec-Crow/Writeups/blob/main/htb/machines/Bookworm/Bookworm.md) | 
 | <img src="icons/s1/6d08e5f1919c77c0497213377f635e08.png" height="25px" width="25px"> | [PC](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/pc/pc_writeup.md) |
 | <img src="icons/s1/acdbb2202a5db5ed5103524fb80cf9cd.png" height="25px" width="25px"> | [Format](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/format/format_writeup.md) |
 | <img src="icons/s1/dad63a6e9acecb328beab54e35644220.png" height="25px" width="25px"> | [Snoopy](https://github.com/InfoSec-Crow/Writeups/blob/main/htb/machines/Snoopy/Snoopy.md) |
@@ -102,8 +119,8 @@
 | <img src="icons/s1/0ec0d1f3e6e5f8602892e310c28079e6.png" height="25px" width="25px"> | [Cerberus](https://github.com/InfoSec-Crow/Writeups/blob/main/htb/machines/Cerberus/Cerberus.md) |
 | <img src="icons/s1/285ba8819710b6ae1f67bc0e5914ffd9.png" height="25px" width="25px"> | [Inject](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/inject/inject_writeup_hacking_thursday.md) |
 | <img src="icons/s1/8fa064016362fbfce91b5de54b7e7f7e.webp" height="25px" width="25px"> | [Agile](https://github.com/InfoSec-Crow/Writeups/blob/main/htb/machines/Agile/Agile.md) |
-</td>
 
+</td>
 <td>
   
 | | |
@@ -123,7 +140,6 @@
 | <img src="icons/s2/93c53cc1fc0284e5d9d74a565a8b9bf0.png" height="25px" width="25px"> | [Sandworm](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/sandworm/sandworm_writeup.md) |
   
 </td>
-
 <td>
   
 | | |
@@ -141,7 +157,6 @@
 | <img src="icons/s3/03cea0fc2ebc50151c0dfa9e375e3ded.png" height="25px" width="25px"> | [Search](https://github.com/InfoSec-Crow/Writeups/blob/main/htb/machines/Search/Search.md) |
 | <img src="icons/s3/69894bcbc09fb85054b71bdc805f86bc.png" height="25px" width="25px"> | [Drive](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/drive/drive_writeup.md) |
 | <img src="icons/s3/f86fcf4c1cfcc690b43f43e100f89718.png" height="25px" width="25px"> | [Analytics](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/analytics/analytics_writeup.md) |
-
 
 </td>
 </tr>
