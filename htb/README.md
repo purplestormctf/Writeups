@@ -70,27 +70,6 @@
 | <img src="icons/s6/" height="25px" width="25px"> | n/a |
 
 </td>
-<td>
-  
-<!---
-| | |
-| ------------- | ------------- |
-| <img src="icons/s7/" height="25px" width="25px"> | []() |
-| <img src="icons/s7/" height="25px" width="25px"> | []() |
-| <img src="icons/s7/" height="25px" width="25px"> | []() |
-| <img src="icons/s7/" height="25px" width="25px"> | []() |
-| <img src="icons/s7/" height="25px" width="25px"> | []() |
-| <img src="icons/s7/" height="25px" width="25px"> | []() |
-| <img src="icons/s7/" height="25px" width="25px"> | []() |
-| <img src="icons/s7/" height="25px" width="25px"> | []() |
-| <img src="icons/s7/" height="25px" width="25px"> | []() |
-| <img src="icons/s7/" height="25px" width="25px"> | []() |
-| <img src="icons/s7/" height="25px" width="25px"> | []() |
-| <img src="icons/s7/" height="25px" width="25px"> | []() |
-| <img src="icons/s7/" height="25px" width="25px"> | []() |
---->
-
-</td>
 </tr>
 </table>
 
