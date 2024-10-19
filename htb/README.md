@@ -66,7 +66,7 @@
 | <img src="icons/s6/79616a32a057e5e672dadb51bb96dd04.webp" height="25px" width="25px"> | Cicada |
 | <img src="icons/s6/5ca57613886666c4c33ef23876b3f054.webp" height="25px" width="25px"> | Yummy |
 | <img src="icons/s6/8e9f11a3cceeb4f69e659ed31347cc77.webp" height="25px" width="25px"> | Instant |
-| <img src="icons/s6/" height="25px" width="25px"> | n/a |
+| <img src="icons/s6/b8f3d660af2d3ed0929eb119e33526cf.webp" height="25px" width="25px"> | Chemistry |
 | <img src="icons/s6/" height="25px" width="25px"> | n/a |
 
 </td>
