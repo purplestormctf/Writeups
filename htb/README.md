@@ -40,7 +40,7 @@
 | <img src="icons/s5/3ec233f1bf70b096a66f8a452e7cd52f.webp" height="25px" width="25px"> | PermX |
 | <img src="icons/s5/3ad1911c18a46af0d6967aef8521989c.webp" height="25px" width="25px"> | Blazorized |
 | <img src="icons/s5/e6052efa31516d5aa9c78831509bcedd.webp" height="25px" width="25px"> | Axlle |
-| <img src="icons/s5/a466db5ce4f7aaea98f588d1cb71a0aa.webp" height="25px" width="25px"> | Editorial |
+| <img src="icons/s5/a466db5ce4f7aaea98f588d1cb71a0aa.webp" height="25px" width="25px"> | [Editorial](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Editorial/Editorial.md) |
 | <img src="icons/s5/344998b24aad421410cabf912d3dc3af.webp" height="25px" width="25px"> | [Blurry](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Blurry/Blurry.md) |
 | <img src="icons/s5/cc3c525e7837e7e95d0da9b6596e7a30.webp" height="25px" width="25px"> | [Freelancer](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Freelancer/Freelancer.md) |
 | <img src="icons/s5/7768afed979c9abe917b0c20df49ceb8.webp" height="25px" width="25px"> | [BoardLight](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/BoardLight/BoardLight.md) |
