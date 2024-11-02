@@ -37,7 +37,7 @@
 | | |
 | ------------- | ------------- |
 | <img src="icons/s5/38f90738d0433b8adf27036f18ecf91e.webp" height="25px" width="25px"> | Ghost |
-| <img src="icons/s5/3ec233f1bf70b096a66f8a452e7cd52f.webp" height="25px" width="25px"> | PermX |
+| <img src="icons/s5/3ec233f1bf70b096a66f8a452e7cd52f.webp" height="25px" width="25px"> | [PermX](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/PermX/PermX.md) |
 | <img src="icons/s5/3ad1911c18a46af0d6967aef8521989c.webp" height="25px" width="25px"> | Blazorized |
 | <img src="icons/s5/e6052efa31516d5aa9c78831509bcedd.webp" height="25px" width="25px"> | Axlle |
 | <img src="icons/s5/a466db5ce4f7aaea98f588d1cb71a0aa.webp" height="25px" width="25px"> | [Editorial](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Editorial/Editorial.md) |
@@ -67,7 +67,7 @@
 | <img src="icons/s6/5ca57613886666c4c33ef23876b3f054.webp" height="25px" width="25px"> | Yummy |
 | <img src="icons/s6/8e9f11a3cceeb4f69e659ed31347cc77.webp" height="25px" width="25px"> | Instant |
 | <img src="icons/s6/b8f3d660af2d3ed0929eb119e33526cf.webp" height="25px" width="25px"> | Chemistry |
-| <img src="icons/s6/" height="25px" width="25px"> | n/a |
+| <img src="icons/s6/1d7d081a4ea7d6b2ad0fc231599f9edd.webp" height="25px" width="25px"> | University |
 
 </td>
 </tr>
