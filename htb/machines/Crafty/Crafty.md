@@ -5,7 +5,7 @@
 
 - [Reconnaissance](#Reconnaissance)
 	- [Nmap](#Nmap)
-	- [Enumeration of Port 80/TCP](#Enumeration-of-Port-80TCP)
+	- [Enumeration of Port 80/TCP](#Enumeration-of-Port80TCP)
 - [Foothold via Log4j](#Foothold-via-Log4j)
 - [user.txt](#usertxt)
 - [Persistence](#Persistence)
