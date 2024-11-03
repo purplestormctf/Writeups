@@ -28,7 +28,7 @@ The box starts with only port `80/TCP` and port `22/TCP` open. Accessing port `8
 
 - [Reconnaissance](#Reconnaissance)
   - [Reconnaissance#Nmap](#Nmap)
-  - [Reconnaissance#Enumeration of Port 80/TCP](#Enumeration-of-Port-80-TCP)
+  - [Reconnaissance#Enumeration of Port 80/TCP](#Enumeration-of-Port-80TCP)
   - [Reconnaissance#Subdomain Enumeration](#Subdomain-Enumeration)
 - [Directory Busting](#Directory-Busting)
   - [Directory Busting#Chamillo Enumeration](#Chamillo-Enumeration)
