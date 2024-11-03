@@ -26,7 +26,7 @@ The box runs a `CRM` called `Dolibarr` on a `subdomain` which can be found by a 
 
 - [Reconnaissance](#Reconnaissance)
   - [Port Scanning](#Port-Scanning)
-  - [Enumeration of Port 80/TCP](#Enumeration-of-Port-80TCP)
+  - [Enumeration of Port 80/TCP](#Enumeration-of-Port80TCP)
   - [Subdomain Enumeration](#Subdomain-Enumeration)
   - [Dolibarr CRM](#Dolibarr-CRM)
 - [Foothold](#Foothold)
