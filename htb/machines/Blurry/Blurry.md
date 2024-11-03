@@ -24,7 +24,7 @@ The box redirects you to `http://app.blurry.htb` which contains an instance of `
 
 - [Reconnaissance](#Reconnaissance)
     - [Port Scanning](#Port-Scanning)
-    - [Enumeration of Port 80/TCP](#Enumeration-of-Port-80TCP)
+    - [Enumeration of Port 80/TCP](#Enumeration-of-Port80TCP)
     - [Subdomain Enumeration](#Subdomain-Enumeration)
 - [Foothold](#Foothold)
 - [user.txt](#usertxt)
