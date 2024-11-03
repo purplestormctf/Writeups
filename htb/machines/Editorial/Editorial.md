@@ -28,7 +28,7 @@ The box offers a possibility to enter a custom `URL` in a web form to upload a c
 
 - [Reconnaissance](#Reconnaissance)
 	- [Port Scanning](#Port-Scanning)
-	- [Enumeration of Port 80/TCP](#Enumeration-of-Port-80TCP)
+	- [Enumeration of Port 80/TCP](#Enumeration-of-Port80TCP)
 - [Foothold](#Foothold)
 	- [Server-Side Request Forgery (SSRF)](#Server-Side-Request-Forgery-SSRF)
 - [user.txt](#usertxt)
