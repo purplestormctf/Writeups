@@ -55,7 +55,7 @@
   
 | | |
 | ------------- | ------------- |
-| <img src="icons/s6/e83ac2321955bd2e0beb788d47fa5ae9.webp" height="25px" width="25px"> | Resource |
+| <img src="icons/s6/e83ac2321955bd2e0beb788d47fa5ae9.webp" height="25px" width="25px"> | [Resource](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Resource/Resource.md) |
 | <img src="icons/s6/0011f6725aed869f8683589cb08c90d0.webp" height="25px" width="25px"> | Sea |
 | <img src="icons/s6/d2e8271977fdc3f13bee7d7ab48954ca.webp" height="25px" width="25px"> | Lantern |
 | <img src="icons/s6/a9c8709743c935ae079e3b04d9304c99.webp" height="25px" width="25px"> | MonitorsThree |
