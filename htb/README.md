@@ -173,6 +173,17 @@
 | <img src="icons/non/ca7f69a02eebf53deb3cd1611dd3f55e.png" height="25px" width="25px"> | [Soccer](https://github.com/purplestormctf/Writeups/tree/main/htb/machines/soccer) |
 
 </td>
+</td>
+<td>
+
+| | | 
+| ------------- | ------------- | 
+| <img src="icons/non/28b71ec11bb839b5b58bdfc555006816.webp" height="25px" width="25px">| Certified |
+| <img src="icons/non/9d232b1558b7543c7cb85f2774687363.webp" height="25px" width="25px"> | Administrator |
+| <img src="icons/non/a6165b53a2df41fbfd6530782224925f.webp" height="25px" width="25px"> | BlockBlock |
+| <img src="icons/non/6f4647030d6aadc676b8d8a459de344f.webp" height="25px" width="25px"> | Alert |
+
+</td>
 </tr>
 </table>
 
