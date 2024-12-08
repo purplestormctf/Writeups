@@ -169,7 +169,7 @@
 
 | | | 
 | ------------- | ------------- |
-| <img src="icons/non/ea0bd450c67da1efd2058c2cab9400cf.webp" height="25px" width="25px">| [Compiled](https://github.com/purplestormctf/Writeups/tree/main/htb/machines/Compiled) |
+| <img src="icons/non/ea0bd450c67da1efd2058c2cab9400cf.webp" height="25px" width="25px">| Compiled |
 | <img src="icons/non/b7d9a9b075fd49c8509866fe24f58dbb.webp" height="25px" width="25px">| [GreenHorn](https://github.com/purplestormctf/Writeups/tree/main/htb/machines/GreenHorn) |
 | <img src="icons/non/750ba886c8a87103c69cac0f13f2de70.webp" height="25px" width="25px">| [IClean](https://github.com/purplestormctf/Writeups/tree/main/htb/machines/IClean) |
 | <img src="icons/non/80936664b3da83a92b28602e79e47d79.png" height="25px" width="25px"> | [Escape](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/escape/escape_writeup.md) |
