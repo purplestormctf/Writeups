@@ -8,15 +8,40 @@
 
 <table>
 <tr>
-  <th>Season 4 <br>06 Jan 2024 - 30 Mar 2024 </th>
-  <th>Season 5 <br>20 Apr 2024 - 13 Jul 2024 </th>
-  <th>Season 6 <br>03 Aug 2024 - </th>
+  <th>Season 7 <br>11 Jan 2025 - </th>
 </tr>
 <tr>
 <td>
   
 | | |
-| ------------- | ------------- |
+| --- | --- |
+| <img src="icons/s7/d5fcf2425893a73cf137284e2de580e1.webp" height="25px" width="25px"> | EscapeTwo |
+| <img src="icons/s7/aa0a93908243c51fe21e691fc6571911.webp" height="25px" width="25px"> | Backfire |
+| <img src="icons/s7" height="25px" width="25px"> | n/a |
+| <img src="icons/s7" height="25px" width="25px"> | n/a |
+| <img src="icons/s7" height="25px" width="25px"> | n/a |
+| <img src="icons/s7" height="25px" width="25px"> | n/a |
+| <img src="icons/s7" height="25px" width="25px"> | n/a |
+| <img src="icons/s7" height="25px" width="25px"> | n/a |
+| <img src="icons/s7" height="25px" width="25px"> | n/a |
+| <img src="icons/s7" height="25px" width="25px"> | n/a |
+| <img src="icons/s7" height="25px" width="25px"> | n/a |
+| <img src="icons/s7" height="25px" width="25px"> | n/a |
+| <img src="icons/s7" height="25px" width="25px"> | n/a |
+
+</td>
+
+<table>
+<tr>
+  <th>Season 4 <br>Jan 2024 - Mar 2024 </th>
+  <th>Season 5 <br>Apr 2024 - Jul 2024 </th>
+  <th>Season 6 <br>Aug 2024 - Nov 2024</th>
+</tr>
+<tr>
+<td>
+
+| | |
+| --- | --- |
 | <img src="icons/s4/84669b838a8633d26f4a2d90a6069f7e.webp" height="25px" width="25px"> | Mist |
 | <img src="icons/s4/26e076db204a74b99390e586d7ebcf8c.webp" height="25px" width="25px"> | [Headless](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Headless/Headless.md) |
 | <img src="icons/s4/16c5889acc1ca177c6b343c76bebcdaf.webp" height="25px" width="25px"> | [WifineticTwo ](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/WifineticTwo/WifineticTwo.md) |
@@ -35,7 +60,7 @@
 <td>
 
 | | |
-| ------------- | ------------- |
+| --- | --- |
 | <img src="icons/s5/38f90738d0433b8adf27036f18ecf91e.webp" height="25px" width="25px"> | Ghost |
 | <img src="icons/s5/3ec233f1bf70b096a66f8a452e7cd52f.webp" height="25px" width="25px"> | [PermX](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/PermX/PermX.md) |
 | <img src="icons/s5/3ad1911c18a46af0d6967aef8521989c.webp" height="25px" width="25px"> | Blazorized |
@@ -54,7 +79,7 @@
 <td>
   
 | | |
-| ------------- | ------------- |
+| --- | --- |
 | <img src="icons/s6/e83ac2321955bd2e0beb788d47fa5ae9.webp" height="25px" width="25px"> | [Resource](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Resource/Resource.md) |
 | <img src="icons/s6/0011f6725aed869f8683589cb08c90d0.webp" height="25px" width="25px"> | [Sea](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Sea/Sea.md) |
 | <img src="icons/s6/d2e8271977fdc3f13bee7d7ab48954ca.webp" height="25px" width="25px"> | Lantern |
@@ -73,18 +98,17 @@
 </tr>
 </table>
 
-
 <table>
 <tr>
-  <th>Season 1 <br>04 Mar 2023 - 27 May 2023</th>
-  <th>Season 2 <br>17 Jun 2023 - 09 Sep 2023 </th>
-  <th>Season 3 <br>07 Oct 2023  - 16 Dec 2023  </th>
+  <th>Season 1 <br>Mar 2023 - May 2023</th>
+  <th>Season 2 <br>Jun 2023 - Sep 2023</th>
+  <th>Season 3 <br>Oct 2023 - Dec 2023</th>
 </tr>
 <tr>
 <td>
   
 | | |
-| ------------- | ------------- |
+| --- | --- |
 | <img src="icons/s1/f0c89af6ee134e1b432d95e4528cf0cd.png" height="25px" width="25px"> | [Bookworm](https://github.com/InfoSec-Crow/Writeups/blob/main/htb/machines/Bookworm/Bookworm.md) | 
 | <img src="icons/s1/6d08e5f1919c77c0497213377f635e08.png" height="25px" width="25px"> | [PC](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/pc/pc_writeup.md) |
 | <img src="icons/s1/acdbb2202a5db5ed5103524fb80cf9cd.png" height="25px" width="25px"> | [Format](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/format/format_writeup.md) |
@@ -103,7 +127,7 @@
 <td>
   
 | | |
-| ------------- | ------------- |
+| --- | --- |
 | <img src="icons/s2/2ad5dcb2fb97e40f5e88a0d6fc569bdd.png" height="25px" width="25px"> | [Rebound](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/rebound/rebound_writeup.md) |
 | <img src="icons/s2/eaed7cd01e84ef5c6ec7d949d1d61110.png" height="25px" width="25px"> | [CozyHosting](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/cozyhosting/cozyhosting_writeup.md) |
 | <img src="icons/s2/03e875ef2a39c9a2bd7538b3cfcd9b8a.png" height="25px" width="25px"> | [Zipping](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/zipping/zipping_writeup.md) |
@@ -122,7 +146,7 @@
 <td>
   
 | | |
-| ------------- | ------------- |
+| --- | --- |
 | <img src="icons/s3/380bc40d3a6bd3ba99da465177e8593e.webp" height="25px" width="25px"> | Corporate |
 | <img src="icons/s3/a75ac8ed04e6e728547538bfa41cfc68.png" height="25px" width="25px"> | [Visual](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/visual/visual_writeup.md) |
 | <img src="icons/s3/d2ddffcb2eced6a4d5486dc99d440d1a.png" height="25px" width="25px"> | [Surveillance](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/surveillance/surveillance_writeup.md) |
@@ -148,7 +172,7 @@
 <td>
 
 | | | 
-| ------------- | ------------- |
+| --- | --- |
 | <img src="icons/non/5a89d213ede5af4b4f94035fd059f976.webp" height="25px" width="25px">| [Clicker](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/clicker/clicker_writeup.md) |
 | <img src="icons/non/e886bd88cf5e6db3ddc0ede99aa85530.png" height="25px" width="25px"> | [Bagel](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/bagel/bagel_writeup.md) |
 | <img src="icons/non/3adcfd6093f8ddb4dffe8422da6377c8.png" height="25px" width="25px"> | [Precious](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/precious/precious_writeup.md) |
@@ -158,7 +182,7 @@
 <td>
   
 | | | 
-| ------------- | ------------- |
+| --- | --- |
 | <img src="icons/non/ca7f69a02eebf53deb3cd1611dd3f55e.png" height="25px" width="25px"> | [Soccer](https://github.com/purplestormctf/Writeups/tree/main/htb/machines/soccer/) |
 | <img src="icons/non/caac8772de14a769c0bfe95756bceebe.png" height="25px" width="25px"> | [Pollution](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/pollution/pollution_writeup.md) |
 | <img src="icons/non/cbfa26b4a4044677e93779a44bbd458f.png" height="25px" width="25px"> | [Topology](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/topology/topology_writeup.md) |
@@ -168,22 +192,31 @@
 <td>
 
 | | | 
-| ------------- | ------------- |
-| <img src="icons/non/ea0bd450c67da1efd2058c2cab9400cf.webp" height="25px" width="25px">| Compiled |
-| <img src="icons/non/b7d9a9b075fd49c8509866fe24f58dbb.webp" height="25px" width="25px">| [GreenHorn](https://github.com/purplestormctf/Writeups/tree/main/htb/machines/GreenHorn/GreenHorn.md) |
-| <img src="icons/non/750ba886c8a87103c69cac0f13f2de70.webp" height="25px" width="25px">| [IClean](https://github.com/purplestormctf/Writeups/tree/main/htb/machines/IClean/IClean.md) |
-| <img src="icons/non/80936664b3da83a92b28602e79e47d79.png" height="25px" width="25px"> | [Escape](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/escape/escape_writeup.md) |
+| --- | --- |
+| <img src="icons/non/ea0bd450c67da1efd2058c2cab9400cf.webp" height="25px" width="25px"> | Compiled |
+| <img src="icons/non/b7d9a9b075fd49c8509866fe24f58dbb.webp" height="25px" width="25px"> | [GreenHorn](https://github.com/purplestormctf/Writeups/tree/main/htb/machines/GreenHorn/GreenHorn.md) |
+| <img src="icons/non/750ba886c8a87103c69cac0f13f2de70.webp" height="25px" width="25px"> | [IClean](https://github.com/purplestormctf/Writeups/tree/main/htb/machines/IClean/IClean.md) |
+| <img src="icons/non/80936664b3da83a92b28602e79e47d79.png" height="25px" width="25px">  | [Escape](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/escape/escape_writeup.md) |
 
-</td>
 </td>
 <td>
 
 | | | 
-| ------------- | ------------- | 
-| <img src="icons/non/28b71ec11bb839b5b58bdfc555006816.webp" height="25px" width="25px">| Certified |
+| --- | --- | 
+| <img src="icons/non/28b71ec11bb839b5b58bdfc555006816.webp" height="25px" width="25px"> | Certified |
 | <img src="icons/non/9d232b1558b7543c7cb85f2774687363.webp" height="25px" width="25px"> | Administrator |
 | <img src="icons/non/a6165b53a2df41fbfd6530782224925f.webp" height="25px" width="25px"> | BlockBlock |
 | <img src="icons/non/6f4647030d6aadc676b8d8a459de344f.webp" height="25px" width="25px"> | Alert |
+
+</td>
+<td>
+
+| | | 
+| --- | --- | 
+| <img src="icons/non/4eae732c7af0ce1b443d009637167610.webp" height="25px" width="25px"> | Vintage |
+| <img src="icons/non/97f12db8fafed028448e29e30be7efac.webp" height="25px" width="25px"> | LinkVortex |
+| <img src="icons/non/dcd5ef09ab764228c64385374ac744c1.webp" height="25px" width="25px"> | Heal |
+| <img src="icons/non/456a4d2e52f182847fb0a2dba0420a44.webp" height="25px" width="25px"> | Underpass |
 
 </td>
 </tr>
