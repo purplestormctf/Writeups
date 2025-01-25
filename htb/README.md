@@ -86,7 +86,7 @@
 | <img src="icons/s6/a9c8709743c935ae079e3b04d9304c99.webp" height="25px" width="25px"> | [MonitorsThree](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/MonitorsThree/MonitorsThree.md) |
 | <img src="icons/s6/dc36c40fe951cf7f32a84f3da1b43ce8.webp" height="25px" width="25px"> | Infiltrator |
 | <img src="icons/s6/f96160a20e9cf0138885238444b47404.webp" height="25px" width="25px"> | [Sightless](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Sightless/Sightless.md) |
-| <img src="icons/s6/d3cb6edd2a219f122696655d0015b101.webp" height="25px" width="25px"> | Caption |
+| <img src="icons/s6/d3cb6edd2a219f122696655d0015b101.webp" height="25px" width="25px"> | [Caption](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Caption/Caption.md) |
 | <img src="icons/s6/0eff5f0d7d2208024e519e5abfb132d0.webp" height="25px" width="25px"> | Trickster |
 | <img src="icons/s6/79616a32a057e5e672dadb51bb96dd04.webp" height="25px" width="25px"> | Cicada |
 | <img src="icons/s6/5ca57613886666c4c33ef23876b3f054.webp" height="25px" width="25px"> | Yummy |
