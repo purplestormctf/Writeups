@@ -19,8 +19,8 @@
 | <img src="icons/s7/aa0a93908243c51fe21e691fc6571911.webp" height="25px" width="25px"> | Backfire |
 | <img src="icons/s7/2d22afd496c5ae6f6c51ca24bf3719e1.webp" height="25px" width="25px"> | BigBang |
 | <img src="icons/s7/bf7ae27f4e0ce1703bdd10d538334d9e.webp" height="25px" width="25px"> | Cat |
-| <img src="icons/s7" height="25px" width="25px"> | n/a |
-| <img src="icons/s7" height="25px" width="25px"> | n/a |
+| <img src="icons/s7/93fba06a4780b65be5a5a4f9512b8e78.webp" height="25px" width="25px"> | DarkCorp |
+| <img src="icons/s7/eb5942ec56dd9b6feb06dcf8af8aefc6.webp" height="25px" width="25px"> | Titanic |
 | <img src="icons/s7" height="25px" width="25px"> | n/a |
 | <img src="icons/s7" height="25px" width="25px"> | n/a |
 | <img src="icons/s7" height="25px" width="25px"> | n/a |
@@ -69,7 +69,7 @@
 | <img src="icons/s5/344998b24aad421410cabf912d3dc3af.webp" height="25px" width="25px"> | [Blurry](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Blurry/Blurry.md) |
 | <img src="icons/s5/cc3c525e7837e7e95d0da9b6596e7a30.webp" height="25px" width="25px"> | [Freelancer](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Freelancer/Freelancer.md) |
 | <img src="icons/s5/7768afed979c9abe917b0c20df49ceb8.webp" height="25px" width="25px"> | [BoardLight](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/BoardLight/BoardLight.md) |
-| <img src="icons/s5/a878db048e3cb6ba0e4a467bb705e145.webp" height="25px" width="25px"> | MagicGardens |
+| <img src="icons/s5/a878db048e3cb6ba0e4a467bb705e145.webp" height="25px" width="25px"> | [MagicGardens](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/MagicGardens/MagicGardens.md) |
 | <img src="icons/s5/a2c2bd7b4e98ff8b782ed590896305a1.webp" height="25px" width="25px"> | SolarLab |
 | <img src="icons/s5/cedb2f991409f9f39b55b04513f6b102.webp" height="25px" width="25px"> | [Mailing](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Mailing/Mailing.md) |
 | <img src="icons/s5/464537cc0d3e9962fc598767bff7b1f1.webp" height="25px" width="25px"> | Intuition |
