@@ -88,7 +88,7 @@
 | <img src="icons/s6/f96160a20e9cf0138885238444b47404.webp" height="25px" width="25px"> | [Sightless](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Sightless/Sightless.md) |
 | <img src="icons/s6/d3cb6edd2a219f122696655d0015b101.webp" height="25px" width="25px"> | [Caption](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Caption/Caption.md) |
 | <img src="icons/s6/0eff5f0d7d2208024e519e5abfb132d0.webp" height="25px" width="25px"> | [Trickster](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Trickster/Trickster.md) |
-| <img src="icons/s6/79616a32a057e5e672dadb51bb96dd04.webp" height="25px" width="25px"> | Cicada |
+| <img src="icons/s6/79616a32a057e5e672dadb51bb96dd04.webp" height="25px" width="25px"> | [Cicada](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Cicada/Cicada.md) |
 | <img src="icons/s6/5ca57613886666c4c33ef23876b3f054.webp" height="25px" width="25px"> | Yummy |
 | <img src="icons/s6/8e9f11a3cceeb4f69e659ed31347cc77.webp" height="25px" width="25px"> | Instant |
 | <img src="icons/s6/b8f3d660af2d3ed0929eb119e33526cf.webp" height="25px" width="25px"> | Chemistry |
