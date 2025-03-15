@@ -24,8 +24,8 @@
 | <img src="icons/s7/afe87a33205a5ffd978c805aa93488a9.webp" height="25px" width="25px"> | Checker |
 | <img src="icons/s7/765cd4be6f3a366ca83c7ea60bbcaaa8.webp" height="25px" width="25px"> | Cypher |
 | <img src="icons/s7/426830ea2ae4f05f7892ad89195f8276.webp" height="25px" width="25px"> | Dog |
-| <img src="icons/s7" height="25px" width="25px"> | n/a |
-| <img src="icons/s7" height="25px" width="25px"> | n/a |
+| <img src="icons/s7/c91ef1b641cf88156c7a9d3793d54216.webp" height="25px" width="25px"> | TheFrizz |
+| <img src="icons/s7/55cc3528cd7ad96f67c4f0c715efe286.webp" height="25px" width="25px"> | Code |
 | <img src="icons/s7" height="25px" width="25px"> | n/a |
 | <img src="icons/s7" height="25px" width="25px"> | n/a |
 
@@ -203,7 +203,7 @@
 
 | | | 
 | --- | --- | 
-| <img src="icons/non/28b71ec11bb839b5b58bdfc555006816.webp" height="25px" width="25px"> | Certified |
+| <img src="icons/non/28b71ec11bb839b5b58bdfc555006816.webp" height="25px" width="25px"> | [Certified](https://github.com/purplestormctf/Writeups/tree/main/htb/machines/Certified/Certified.md) |
 | <img src="icons/non/9d232b1558b7543c7cb85f2774687363.webp" height="25px" width="25px"> | Administrator |
 | <img src="icons/non/a6165b53a2df41fbfd6530782224925f.webp" height="25px" width="25px"> | BlockBlock |
 | <img src="icons/non/6f4647030d6aadc676b8d8a459de344f.webp" height="25px" width="25px"> | Alert |
