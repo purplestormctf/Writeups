@@ -26,8 +26,8 @@
 | <img src="icons/s7/426830ea2ae4f05f7892ad89195f8276.webp" height="25px" width="25px"> | Dog |
 | <img src="icons/s7/c91ef1b641cf88156c7a9d3793d54216.webp" height="25px" width="25px"> | TheFrizz |
 | <img src="icons/s7/55cc3528cd7ad96f67c4f0c715efe286.webp" height="25px" width="25px"> | Code |
-| <img src="icons/s7" height="25px" width="25px"> | n/a |
-| <img src="icons/s7" height="25px" width="25px"> | n/a |
+| <img src="icons/s7/44e14228c6a208714eda356bda7624a8.webp" height="25px" width="25px"> | Haze |
+| <img src="icons/s7/acf63a6d45ca722a8203fe4ab82007a6.webp" height="25px" width="25px"> | WhiteRabbit |
 
 </td>
 
@@ -217,6 +217,16 @@
 | <img src="icons/non/97f12db8fafed028448e29e30be7efac.webp" height="25px" width="25px"> | LinkVortex |
 | <img src="icons/non/dcd5ef09ab764228c64385374ac744c1.webp" height="25px" width="25px"> | Heal |
 | <img src="icons/non/456a4d2e52f182847fb0a2dba0420a44.webp" height="25px" width="25px"> | Underpass |
+
+</td>
+<td>
+
+| | | 
+| --- | --- | 
+| <img src="icons/non/f6a56cec6e9826b4ed124fb4155abc66.webp" height="25px" width="25px"> | Nocturnal |
+| <img src="icons/non/f2df2ca13368e6e158cffd5a3ab54d5d.webp" height="25px" width="25px"> | Scepter |
+| <img src="icons/non/" height="25px" width="25px"> | n/a |
+| <img src="icons/non/" height="25px" width="25px"> | n/a |
 
 </td>
 </tr>
