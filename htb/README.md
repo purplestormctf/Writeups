@@ -214,7 +214,7 @@
 | | | 
 | --- | --- | 
 | <img src="icons/non/4eae732c7af0ce1b443d009637167610.webp" height="25px" width="25px"> | Vintage |
-| <img src="icons/non/97f12db8fafed028448e29e30be7efac.webp" height="25px" width="25px"> | LinkVortex |
+| <img src="icons/non/97f12db8fafed028448e29e30be7efac.webp" height="25px" width="25px"> | [LinkVortex](https://github.com/purplestormctf/Writeups/tree/main/htb/machines/LinkVortex/LinkVortex.md) |
 | <img src="icons/non/dcd5ef09ab764228c64385374ac744c1.webp" height="25px" width="25px"> | Heal |
 | <img src="icons/non/456a4d2e52f182847fb0a2dba0420a44.webp" height="25px" width="25px"> | Underpass |
 
