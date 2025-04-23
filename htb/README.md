@@ -226,6 +226,16 @@
 | <img src="icons/non/f6a56cec6e9826b4ed124fb4155abc66.webp" height="25px" width="25px"> | Nocturnal |
 | <img src="icons/non/f2df2ca13368e6e158cffd5a3ab54d5d.webp" height="25px" width="25px"> | Scepter |
 | <img src="icons/non/721477107c34105c91220b678c1f1ec6.webp" height="25px" width="25px"> | Eureka |
+| <img src="icons/non/757eeb9b0f530e71875f0219d0d477e4.webp" height="25px" width="25px"> | Environment |
+
+</td>
+<td>
+
+| | | 
+| --- | --- | 
+| <img src="icons/non/f6a56cec6e9826b4ed124fb4155abc66.webp" height="25px" width="25px"> | Planning |
+| <img src="icons/non/" height="25px" width="25px"> | n/a |
+| <img src="icons/non/" height="25px" width="25px"> | n/a |
 | <img src="icons/non/" height="25px" width="25px"> | n/a |
 
 </td>
