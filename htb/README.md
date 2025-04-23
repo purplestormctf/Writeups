@@ -8,7 +8,8 @@
 
 <table>
 <tr>
-  <th>Season 7 <br>11 Jan 2025 - </th>
+  <th>Season 7 <br>Jan 2025 - Apr 2025</th>
+  <th>Season 8 <br>?</th>
 </tr>
 <tr>
 <td>
@@ -33,8 +34,8 @@
 
 <table>
 <tr>
-  <th>Season 4 <br>Jan 2024 - Mar 2024 </th>
-  <th>Season 5 <br>Apr 2024 - Jul 2024 </th>
+  <th>Season 4 <br>Jan 2024 - Mar 2024</th>
+  <th>Season 5 <br>Apr 2024 - Jul 2024</th>
   <th>Season 6 <br>Aug 2024 - Nov 2024</th>
 </tr>
 <tr>
@@ -233,7 +234,7 @@
 
 | | | 
 | --- | --- | 
-| <img src="icons/non/f6a56cec6e9826b4ed124fb4155abc66.webp" height="25px" width="25px"> | Planning |
+| <img src="icons/non/c9efb253e7d1d9b407113e11afdaa905.webp" height="25px" width="25px"> | Planning |
 | <img src="icons/non/" height="25px" width="25px"> | n/a |
 | <img src="icons/non/" height="25px" width="25px"> | n/a |
 | <img src="icons/non/" height="25px" width="25px"> | n/a |
