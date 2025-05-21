@@ -9,7 +9,7 @@
 <table>
 <tr>
   <th>Season 7 <br>Jan 2025 - Apr 2025</th>
-  <th>Season 8 <br>?</th>
+  <th>Season 8 <br>May 2025</th>
 </tr>
 <tr>
 <td>
@@ -29,6 +29,25 @@
 | <img src="icons/s7/55cc3528cd7ad96f67c4f0c715efe286.webp" height="25px" width="25px"> | Code |
 | <img src="icons/s7/44e14228c6a208714eda356bda7624a8.webp" height="25px" width="25px"> | Haze |
 | <img src="icons/s7/acf63a6d45ca722a8203fe4ab82007a6.webp" height="25px" width="25px"> | WhiteRabbit |
+
+</td>
+<td>
+  
+| | |
+| --- | --- |
+| <img src="icons/s8/6a127b39657062e42c1a8dfdcd23475d.webp" height="25px" width="25px"> | Puppy |
+|  | n/a |
+|  | n/a |
+|  | n/a |
+|  | n/a |
+|  | n/a |
+|  | n/a |
+|  | n/a |
+|  | n/a |
+|  | n/a |
+|  | n/a |
+|  | n/a |
+|  | n/a |
 
 </td>
 
