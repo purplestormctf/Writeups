@@ -36,7 +36,7 @@
 | | |
 | --- | --- |
 | <img src="icons/s8/6a127b39657062e42c1a8dfdcd23475d.webp" height="25px" width="25px"> | Puppy |
-|  | n/a |
+| <img src="icons/s8/ef8fc92ac7cccd8afa4412241432f064.webp" height="25px" width="25px"> | Fluffy |
 |  | n/a |
 |  | n/a |
 |  | n/a |
