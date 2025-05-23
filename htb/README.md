@@ -139,7 +139,7 @@
 | <img src="icons/s1/a6942ab57b6a79f71240420442027334.png" height="25px" width="25px"> | [Busqueda](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/busqueda/busqueda_writeup_hacking_thursday.md) |
 | <img src="icons/s1/30fc6acef9d23aa9fd71277123c64f24.png" height="25px" width="25px"> | [Coder](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/coder/Coder.md) |
 | <img src="icons/s1/9a73cabc03399aaac0640a0148e3a371.png" height="25px" width="25px"> | [Socket](https://github.com/purplestormctf/Writeups/tree/main/htb/machines/Socket/Socket.md) |
-| <img src="icons/s1/0ec0d1f3e6e5f8602892e310c28079e6.png" height="25px" width="25px"> | [Cerberus](https://github.com/purplestormctf/Writeups/tree/main/htb/machines/Cerberus) |
+| <img src="icons/s1/0ec0d1f3e6e5f8602892e310c28079e6.png" height="25px" width="25px"> | [Cerberus](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Cerberus/Cerberus.md) |
 | <img src="icons/s1/285ba8819710b6ae1f67bc0e5914ffd9.png" height="25px" width="25px"> | [Inject](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/inject/inject_writeup_hacking_thursday.md) |
 | <img src="icons/s1/8fa064016362fbfce91b5de54b7e7f7e.webp" height="25px" width="25px"> | [Agile](https://github.com/purplestormctf/Writeups/tree/main/htb/machines/Agile/Agile.md) |
 
