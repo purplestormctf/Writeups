@@ -22,7 +22,7 @@
 | <img src="icons/s7/bf7ae27f4e0ce1703bdd10d538334d9e.webp" height="25px" width="25px"> | Cat |
 | <img src="icons/s7/93fba06a4780b65be5a5a4f9512b8e78.webp" height="25px" width="25px"> | DarkCorp |
 | <img src="icons/s7/eb5942ec56dd9b6feb06dcf8af8aefc6.webp" height="25px" width="25px"> | Titanic |
-| <img src="icons/s7/afe87a33205a5ffd978c805aa93488a9.webp" height="25px" width="25px"> | Checker |
+| <img src="icons/s7/afe87a33205a5ffd978c805aa93488a9.webp" height="25px" width="25px"> | [Checker](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Checker/Checker.md) |
 | <img src="icons/s7/765cd4be6f3a366ca83c7ea60bbcaaa8.webp" height="25px" width="25px"> | Cypher |
 | <img src="icons/s7/426830ea2ae4f05f7892ad89195f8276.webp" height="25px" width="25px"> | Dog |
 | <img src="icons/s7/c91ef1b641cf88156c7a9d3793d54216.webp" height="25px" width="25px"> | TheFrizz |
