@@ -37,9 +37,9 @@
 | --- | --- |
 | <img src="icons/s8/6a127b39657062e42c1a8dfdcd23475d.webp" height="25px" width="25px"> | Puppy |
 | <img src="icons/s8/ef8fc92ac7cccd8afa4412241432f064.webp" height="25px" width="25px"> | Fluffy |
-|  | n/a |
-|  | n/a |
-|  | n/a |
+| <img src="icons/s8/9b765f2f3e0b0c8d115b5455c22101cf.webp" height="25px" width="25px"> | Certificate |
+| <img src="icons/s8/59c74a969b4fec16cd8072d253ca9917.webp" height="25px" width="25px"> | TombWatcher |
+| <img src="icons/s8/531d99642e57872a77dc86168ac64238.webp" height="25px" width="25px"> | Sorcery |
 |  | n/a |
 |  | n/a |
 |  | n/a |
