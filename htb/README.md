@@ -104,7 +104,7 @@
 | <img src="icons/s6/0011f6725aed869f8683589cb08c90d0.webp" height="25px" width="25px"> | [Sea](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Sea/Sea.md) |
 | <img src="icons/s6/d2e8271977fdc3f13bee7d7ab48954ca.webp" height="25px" width="25px"> | Lantern |
 | <img src="icons/s6/a9c8709743c935ae079e3b04d9304c99.webp" height="25px" width="25px"> | [MonitorsThree](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/MonitorsThree/MonitorsThree.md) |
-| <img src="icons/s6/dc36c40fe951cf7f32a84f3da1b43ce8.webp" height="25px" width="25px"> | Infiltrator |
+| <img src="icons/s6/dc36c40fe951cf7f32a84f3da1b43ce8.webp" height="25px" width="25px"> | [Infiltrator](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Infiltrator/Infiltrator.md) |
 | <img src="icons/s6/f96160a20e9cf0138885238444b47404.webp" height="25px" width="25px"> | [Sightless](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Sightless/Sightless.md) |
 | <img src="icons/s6/d3cb6edd2a219f122696655d0015b101.webp" height="25px" width="25px"> | [Caption](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Caption/Caption.md) |
 | <img src="icons/s6/0eff5f0d7d2208024e519e5abfb132d0.webp" height="25px" width="25px"> | [Trickster](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Trickster/Trickster.md) |
