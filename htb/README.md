@@ -40,9 +40,9 @@
 | <img src="icons/s8/9b765f2f3e0b0c8d115b5455c22101cf.webp" height="25px" width="25px"> | Certificate |
 | <img src="icons/s8/59c74a969b4fec16cd8072d253ca9917.webp" height="25px" width="25px"> | TombWatcher |
 | <img src="icons/s8/531d99642e57872a77dc86168ac64238.webp" height="25px" width="25px"> | Sorcery |
-|  | n/a |
-|  | n/a |
-|  | n/a |
+| <img src="icons/s8/e6633d6c2b1d824c3756eb21aeed7590.webp" height="25px" width="25px"> | Artificial |
+| <img src="icons/s8/c458b48070ca6f3073128d085c9ee247.webp" height="25px" width="25px"> | RustKey |
+| <img src="icons/s8/635619778e50cc8f69df91cc6ae149c4.webp" height="25px" width="25px"> | Voleur |
 |  | n/a |
 |  | n/a |
 |  | n/a |
