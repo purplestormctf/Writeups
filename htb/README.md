@@ -43,7 +43,7 @@
 | <img src="icons/s8/e6633d6c2b1d824c3756eb21aeed7590.webp" height="25px" width="25px"> | Artificial |
 | <img src="icons/s8/c458b48070ca6f3073128d085c9ee247.webp" height="25px" width="25px"> | RustKey |
 | <img src="icons/s8/635619778e50cc8f69df91cc6ae149c4.webp" height="25px" width="25px"> | Voleur |
-|  | n/a |
+| <img src="icons/s8/b1096fc86df3fb6035baad7f599094be.webp" height="25px" width="25px"> | Outbound |
 |  | n/a |
 |  | n/a |
 |  | n/a |
