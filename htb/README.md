@@ -27,7 +27,7 @@
 | <img src="icons/s7/426830ea2ae4f05f7892ad89195f8276.webp" height="25px" width="25px"> | Dog |
 | <img src="icons/s7/c91ef1b641cf88156c7a9d3793d54216.webp" height="25px" width="25px"> | TheFrizz |
 | <img src="icons/s7/55cc3528cd7ad96f67c4f0c715efe286.webp" height="25px" width="25px"> | Code |
-| <img src="icons/s7/44e14228c6a208714eda356bda7624a8.webp" height="25px" width="25px"> | Haze |
+| <img src="icons/s7/44e14228c6a208714eda356bda7624a8.webp" height="25px" width="25px"> | [Haze](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Haze/Haze.md) |
 | <img src="icons/s7/acf63a6d45ca722a8203fe4ab82007a6.webp" height="25px" width="25px"> | WhiteRabbit |
 
 </td>
