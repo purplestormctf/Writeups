@@ -19,7 +19,7 @@
 | <img src="icons/s7/d5fcf2425893a73cf137284e2de580e1.webp" height="25px" width="25px"> | [EscapeTwo](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/EscapeTwo/EscapeTwo.md) |
 | <img src="icons/s7/aa0a93908243c51fe21e691fc6571911.webp" height="25px" width="25px"> | [Backfire](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Backfire/Backfire.md) |
 | <img src="icons/s7/2d22afd496c5ae6f6c51ca24bf3719e1.webp" height="25px" width="25px"> | [BigBang](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/BigBang/syro/BigBang.md) |
-| <img src="icons/s7/bf7ae27f4e0ce1703bdd10d538334d9e.webp" height="25px" width="25px"> | Cat |
+| <img src="icons/s7/bf7ae27f4e0ce1703bdd10d538334d9e.webp" height="25px" width="25px"> | [Cat](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Cat/Cat.md) |
 | <img src="icons/s7/93fba06a4780b65be5a5a4f9512b8e78.webp" height="25px" width="25px"> | DarkCorp |
 | <img src="icons/s7/eb5942ec56dd9b6feb06dcf8af8aefc6.webp" height="25px" width="25px"> | [Titanic](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Titanic/Titanic.md) |
 | <img src="icons/s7/afe87a33205a5ffd978c805aa93488a9.webp" height="25px" width="25px"> | [Checker](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Checker/Checker.md) |
