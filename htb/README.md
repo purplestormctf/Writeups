@@ -24,7 +24,7 @@
 | <img src="icons/s7/eb5942ec56dd9b6feb06dcf8af8aefc6.webp" height="25px" width="25px"> | [Titanic](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Titanic/Titanic.md) |
 | <img src="icons/s7/afe87a33205a5ffd978c805aa93488a9.webp" height="25px" width="25px"> | [Checker](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Checker/Checker.md) |
 | <img src="icons/s7/765cd4be6f3a366ca83c7ea60bbcaaa8.webp" height="25px" width="25px"> | Cypher |
-| <img src="icons/s7/426830ea2ae4f05f7892ad89195f8276.webp" height="25px" width="25px"> | Dog |
+| <img src="icons/s7/426830ea2ae4f05f7892ad89195f8276.webp" height="25px" width="25px"> | [Dog](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Dog/Dog.md) |
 | <img src="icons/s7/c91ef1b641cf88156c7a9d3793d54216.webp" height="25px" width="25px"> | TheFrizz |
 | <img src="icons/s7/55cc3528cd7ad96f67c4f0c715efe286.webp" height="25px" width="25px"> | Code |
 | <img src="icons/s7/44e14228c6a208714eda356bda7624a8.webp" height="25px" width="25px"> | [Haze](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Haze/Haze.md) |
