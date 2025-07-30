@@ -47,7 +47,7 @@
 | <img src="icons/s8/5c9c46ad001394e992f1c7b830ee77e5.webp" height="25px" width="25px"> | Mirage |
 | <img src="icons/s8/fcd00b2542a936e4281ba19e0bd0b025.webp" height="25px" width="25px"> | Era |
 | <img src="icons/s8/ba9dec0d022d3c3b6a96aa5dba4772c7.webp" height="25px" width="25px"> | Editor |
-|  | n/a |
+| <img src="icons/s8/3797a108e247283840cd570b057a03a5.png" height="25px" width="25px"> | Cobblestone |
 
 </td>
 
@@ -254,7 +254,7 @@
 | | | 
 | --- | --- | 
 | <img src="icons/non/c9efb253e7d1d9b407113e11afdaa905.webp" height="25px" width="25px"> | Planning |
-| <img src="icons/non/" height="25px" width="25px"> | n/a |
+| <img src="icons/non/992c992925936b399906f2a78a740eea.png" height="25px" width="25px"> | CodeTwo |
 | <img src="icons/non/" height="25px" width="25px"> | n/a |
 | <img src="icons/non/" height="25px" width="25px"> | n/a |
 
