@@ -9,7 +9,7 @@
 <table>
 <tr>
   <th>Season 7 <br>Jan 2025 - Apr 2025</th>
-  <th>Season 8 <br>May 2025</th>
+  <th>Season 8 <br>May 2025 - Aug 2025</th>
 </tr>
 <tr>
 <td>
