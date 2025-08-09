@@ -112,7 +112,7 @@
 | <img src="icons/s6/5ca57613886666c4c33ef23876b3f054.webp" height="25px" width="25px"> | [Yummy](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Yummy/Yummy.md) |
 | <img src="icons/s6/8e9f11a3cceeb4f69e659ed31347cc77.webp" height="25px" width="25px"> | [Instant](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Instant/Instant.md) |
 | <img src="icons/s6/b8f3d660af2d3ed0929eb119e33526cf.webp" height="25px" width="25px"> | [Chemistry](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Chemistry/Chemistry.md) |
-| <img src="icons/s6/1d7d081a4ea7d6b2ad0fc231599f9edd.webp" height="25px" width="25px"> | University |
+| <img src="icons/s6/1d7d081a4ea7d6b2ad0fc231599f9edd.webp" height="25px" width="25px"> | [University](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/University/University.md) |
 
 </td>
 </tr>
