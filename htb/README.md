@@ -10,6 +10,7 @@
 <tr>
   <th>Season 7 <br>Jan 2025 - Apr 2025</th>
   <th>Season 8 <br>May 2025 - Aug 2025</th>
+  <th>Season 9 <br>n/a</th>
 </tr>
 <tr>
 <td>
@@ -48,6 +49,25 @@
 | <img src="icons/s8/fcd00b2542a936e4281ba19e0bd0b025.webp" height="25px" width="25px"> | Era |
 | <img src="icons/s8/ba9dec0d022d3c3b6a96aa5dba4772c7.webp" height="25px" width="25px"> | Editor |
 | <img src="icons/s8/3797a108e247283840cd570b057a03a5.png" height="25px" width="25px"> | Cobblestone |
+
+</td>
+<td>
+  
+| | |
+| --- | --- |
+| <img src="icons/s9/" height="25px" width="25px"> | tba |
+| <img src="icons/s9/" height="25px" width="25px"> | tba |
+| <img src="icons/s9/" height="25px" width="25px"> | tba |
+| <img src="icons/s9/" height="25px" width="25px"> | tba |
+| <img src="icons/s9/" height="25px" width="25px"> | tba |
+| <img src="icons/s9/" height="25px" width="25px"> | tba |
+| <img src="icons/s9/" height="25px" width="25px"> | tba |
+| <img src="icons/s9/" height="25px" width="25px"> | tba |
+| <img src="icons/s9/" height="25px" width="25px"> | tba |
+| <img src="icons/s9/" height="25px" width="25px"> | tba |
+| <img src="icons/s9/" height="25px" width="25px"> | tba |
+| <img src="icons/s9/" height="25px" width="25px"> | tba |
+| <img src="icons/s9/" height="25px" width="25px"> | tba |
 
 </td>
 
@@ -197,12 +217,6 @@
 | <img src="icons/non/e886bd88cf5e6db3ddc0ede99aa85530.png" height="25px" width="25px"> | [Bagel](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/bagel/bagel_writeup.md) |
 | <img src="icons/non/3adcfd6093f8ddb4dffe8422da6377c8.png" height="25px" width="25px"> | [Precious](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/precious/precious_writeup.md) |
 | <img src="icons/non/23e804513a47e8f20bc865d0419946e1.webp" height="25px" width="25px"> | [Usage](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Usage/Usage.md) |
-
-</td>
-<td>
-  
-| | | 
-| --- | --- |
 | <img src="icons/non/ca7f69a02eebf53deb3cd1611dd3f55e.png" height="25px" width="25px"> | [Soccer](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/soccer/Soccer.md) |
 | <img src="icons/non/caac8772de14a769c0bfe95756bceebe.png" height="25px" width="25px"> | [Pollution](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/pollution/pollution_writeup.md) |
 | <img src="icons/non/cbfa26b4a4044677e93779a44bbd458f.png" height="25px" width="25px"> | [Topology](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/topology/topology_writeup.md) |
@@ -217,12 +231,6 @@
 | <img src="icons/non/b7d9a9b075fd49c8509866fe24f58dbb.webp" height="25px" width="25px"> | [GreenHorn](https://github.com/purplestormctf/Writeups/tree/main/htb/machines/GreenHorn/GreenHorn.md) |
 | <img src="icons/non/750ba886c8a87103c69cac0f13f2de70.webp" height="25px" width="25px"> | [IClean](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/IClean/syro/IClean.md) |
 | <img src="icons/non/80936664b3da83a92b28602e79e47d79.png" height="25px" width="25px">  | [Escape](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/escape/escape_writeup.md) |
-
-</td>
-<td>
-
-| | | 
-| --- | --- | 
 | <img src="icons/non/28b71ec11bb839b5b58bdfc555006816.webp" height="25px" width="25px"> | [Certified](https://github.com/purplestormctf/Writeups/tree/main/htb/machines/Certified/Certified.md) |
 | <img src="icons/non/9d232b1558b7543c7cb85f2774687363.webp" height="25px" width="25px"> | [Administrator](https://github.com/purplestormctf/Writeups/tree/main/htb/machines/Administrator/Administrator.md) |
 | <img src="icons/non/a6165b53a2df41fbfd6530782224925f.webp" height="25px" width="25px"> | [BlockBlock](https://github.com/purplestormctf/Writeups/tree/main/htb/machines/BlockBlock/BlockBlock.md) |
@@ -237,12 +245,6 @@
 | <img src="icons/non/97f12db8fafed028448e29e30be7efac.webp" height="25px" width="25px"> | [LinkVortex](https://github.com/purplestormctf/Writeups/tree/main/htb/machines/LinkVortex/LinkVortex.md) |
 | <img src="icons/non/dcd5ef09ab764228c64385374ac744c1.webp" height="25px" width="25px"> | [Heal](https://github.com/purplestormctf/Writeups/tree/main/htb/machines/Heal/Heal.md) |
 | <img src="icons/non/456a4d2e52f182847fb0a2dba0420a44.webp" height="25px" width="25px"> | [UnderPass](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/UnderPass/UnderPass.md) |
-
-</td>
-<td>
-
-| | | 
-| --- | --- | 
 | <img src="icons/non/f6a56cec6e9826b4ed124fb4155abc66.webp" height="25px" width="25px"> | [Nocturnal](https://github.com/purplestormctf/Writeups/tree/main/htb/machines/Nocturnal/Nocturnal.md) |
 | <img src="icons/non/f2df2ca13368e6e158cffd5a3ab54d5d.webp" height="25px" width="25px"> | [Scepter](https://github.com/purplestormctf/Writeups/tree/main/htb/machines/Scepter/Scepter.md) |
 | <img src="icons/non/721477107c34105c91220b678c1f1ec6.webp" height="25px" width="25px"> | Eureka |
@@ -255,8 +257,8 @@
 | --- | --- | 
 | <img src="icons/non/c9efb253e7d1d9b407113e11afdaa905.webp" height="25px" width="25px"> | Planning |
 | <img src="icons/non/992c992925936b399906f2a78a740eea.png" height="25px" width="25px"> | CodeTwo |
-| <img src="icons/non/" height="25px" width="25px"> | n/a |
-| <img src="icons/non/" height="25px" width="25px"> | n/a |
+| <img src="icons/non/f34c6756e7c75b48ec112831eb27940a.png" height="25px" width="25px"> | Previous |
+| <img src="icons/non/9ad17eb4ab494c5eaa0336eee0a8254d.png" height="25px" width="25px"> | Guardian |
 
 </td>
 </tr>
