@@ -247,7 +247,7 @@
 | <img src="icons/non/456a4d2e52f182847fb0a2dba0420a44.webp" height="25px" width="25px"> | [UnderPass](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/UnderPass/UnderPass.md) |
 | <img src="icons/non/f6a56cec6e9826b4ed124fb4155abc66.webp" height="25px" width="25px"> | [Nocturnal](https://github.com/purplestormctf/Writeups/tree/main/htb/machines/Nocturnal/Nocturnal.md) |
 | <img src="icons/non/f2df2ca13368e6e158cffd5a3ab54d5d.webp" height="25px" width="25px"> | [Scepter](https://github.com/purplestormctf/Writeups/tree/main/htb/machines/Scepter/Scepter.md) |
-| <img src="icons/non/721477107c34105c91220b678c1f1ec6.webp" height="25px" width="25px"> | Eureka |
+| <img src="icons/non/721477107c34105c91220b678c1f1ec6.webp" height="25px" width="25px"> | [Eureka](https://github.com/purplestormctf/Writeups/tree/main/htb/machines/Eureka/Eureka.md) |
 | <img src="icons/non/757eeb9b0f530e71875f0219d0d477e4.webp" height="25px" width="25px"> | Environment |
 
 </td>
