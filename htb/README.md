@@ -259,6 +259,7 @@
 | <img src="icons/non/992c992925936b399906f2a78a740eea.png" height="25px" width="25px"> | CodeTwo |
 | <img src="icons/non/f34c6756e7c75b48ec112831eb27940a.png" height="25px" width="25px"> | Previous |
 | <img src="icons/non/9ad17eb4ab494c5eaa0336eee0a8254d.png" height="25px" width="25px"> | Guardian |
+| <img src="icons/non/2c47fcf9c85c7fbdda73a9c1b54fd60e.png" height="25px" width="25px"> | Soulmate |
 
 </td>
 </tr>
