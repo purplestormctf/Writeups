@@ -255,7 +255,7 @@
 
 | | | 
 | --- | --- | 
-| <img src="icons/non/c9efb253e7d1d9b407113e11afdaa905.webp" height="25px" width="25px"> | Planning |
+| <img src="icons/non/c9efb253e7d1d9b407113e11afdaa905.webp" height="25px" width="25px"> | [Planning](https://github.com/purplestormctf/Writeups/tree/main/htb/machines/Planning/Planning.md) |
 | <img src="icons/non/992c992925936b399906f2a78a740eea.png" height="25px" width="25px"> | CodeTwo |
 | <img src="icons/non/f34c6756e7c75b48ec112831eb27940a.png" height="25px" width="25px"> | Previous |
 | <img src="icons/non/9ad17eb4ab494c5eaa0336eee0a8254d.png" height="25px" width="25px"> | Guardian |
