@@ -10,7 +10,7 @@
 <tr>
   <th>Season 7 <br>Jan 2025 - Apr 2025</th>
   <th>Season 8 <br>May 2025 - Aug 2025</th>
-  <th>Season 9 <br>n/a</th>
+  <th>Season 9 <br>Sep 2025</th>
 </tr>
 <tr>
 <td>
@@ -55,7 +55,7 @@
   
 | | |
 | --- | --- |
-| <img src="icons/s9/" height="25px" width="25px"> | tba |
+| <img src="icons/s9/75c168f01f04e5f256838733b77f13ec.png" height="25px" width="25px"> | Expressway |
 | <img src="icons/s9/" height="25px" width="25px"> | tba |
 | <img src="icons/s9/" height="25px" width="25px"> | tba |
 | <img src="icons/s9/" height="25px" width="25px"> | tba |
