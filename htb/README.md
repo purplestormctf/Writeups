@@ -39,7 +39,7 @@
 | <img src="icons/s8/6a127b39657062e42c1a8dfdcd23475d.webp" height="25px" width="25px"> | [Puppy](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Puppy/Puppy.md) |
 | <img src="icons/s8/ef8fc92ac7cccd8afa4412241432f064.webp" height="25px" width="25px"> | [Fluffy](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Fluffy/Fluffy.md) |
 | <img src="icons/s8/9b765f2f3e0b0c8d115b5455c22101cf.webp" height="25px" width="25px"> | [Certificate](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Certificate/Certificate.md) |
-| <img src="icons/s8/59c74a969b4fec16cd8072d253ca9917.webp" height="25px" width="25px"> | TombWatcher |
+| <img src="icons/s8/59c74a969b4fec16cd8072d253ca9917.webp" height="25px" width="25px"> | [TombWatcher](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Tombwatcher/Tombwatcher.md) |
 | <img src="icons/s8/531d99642e57872a77dc86168ac64238.webp" height="25px" width="25px"> | Sorcery |
 | <img src="icons/s8/e6633d6c2b1d824c3756eb21aeed7590.webp" height="25px" width="25px"> | Artificial |
 | <img src="icons/s8/c458b48070ca6f3073128d085c9ee247.webp" height="25px" width="25px"> | RustKey |
@@ -58,7 +58,7 @@
 | <img src="icons/s9/75c168f01f04e5f256838733b77f13ec.png" height="25px" width="25px"> | Expressway |
 | <img src="icons/s9/662ccbe3935d62aee031d620014adac4.png" height="25px" width="25px"> | Imagery |
 | <img src="icons/s9/78acdd0d87ed629f6cd2dc378bdcddac.png" height="25px" width="25px"> | DarkZero |
-| <img src="icons/s9/" height="25px" width="25px"> | tba |
+| <img src="icons/s9/7aaaac3fafe5bc8737560ba0264c4577.png" height="25px" width="25px"> | Signed |
 | <img src="icons/s9/" height="25px" width="25px"> | tba |
 | <img src="icons/s9/" height="25px" width="25px"> | tba |
 | <img src="icons/s9/" height="25px" width="25px"> | tba |
