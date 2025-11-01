@@ -43,7 +43,7 @@
 | <img src="icons/s8/531d99642e57872a77dc86168ac64238.webp" height="25px" width="25px"> | Sorcery |
 | <img src="icons/s8/e6633d6c2b1d824c3756eb21aeed7590.webp" height="25px" width="25px"> | [Artificial](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Artificial/Artificial.md) |
 | <img src="icons/s8/c458b48070ca6f3073128d085c9ee247.webp" height="25px" width="25px"> | RustKey |
-| <img src="icons/s8/635619778e50cc8f69df91cc6ae149c4.webp" height="25px" width="25px"> | Voleur |
+| <img src="icons/s8/635619778e50cc8f69df91cc6ae149c4.webp" height="25px" width="25px"> | [Voleur](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Voleur/Voleur.md) |
 | <img src="icons/s8/b1096fc86df3fb6035baad7f599094be.webp" height="25px" width="25px"> | Outbound |
 | <img src="icons/s8/5c9c46ad001394e992f1c7b830ee77e5.webp" height="25px" width="25px"> | Mirage |
 | <img src="icons/s8/fcd00b2542a936e4281ba19e0bd0b025.webp" height="25px" width="25px"> | Era |
@@ -61,7 +61,7 @@
 | <img src="icons/s9/7aaaac3fafe5bc8737560ba0264c4577.png" height="25px" width="25px"> | Signed |
 | <img src="icons/s9/e311c1459cd3dce5f29dc4de889cbb8a.png" height="25px" width="25px"> | Hercules |
 | <img src="icons/s9/0b659c391f2803c247e79c77a3284f96.png" height="25px" width="25px"> | Conversor |
-| <img src="icons/s9/" height="25px" width="25px"> | tba |
+| <img src="icons/s9/243db542f3168e3393c4cabf699a665e.png" height="25px" width="25px"> | Giveback |
 | <img src="icons/s9/" height="25px" width="25px"> | tba |
 | <img src="icons/s9/" height="25px" width="25px"> | tba |
 | <img src="icons/s9/" height="25px" width="25px"> | tba |
