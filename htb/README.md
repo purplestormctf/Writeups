@@ -42,7 +42,7 @@
 | <img src="icons/s8/59c74a969b4fec16cd8072d253ca9917.webp" height="25px" width="25px"> | [TombWatcher](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/TombWatcher/Tombwatcher.md) |
 | <img src="icons/s8/531d99642e57872a77dc86168ac64238.webp" height="25px" width="25px"> | Sorcery |
 | <img src="icons/s8/e6633d6c2b1d824c3756eb21aeed7590.webp" height="25px" width="25px"> | [Artificial](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Artificial/Artificial.md) |
-| <img src="icons/s8/c458b48070ca6f3073128d085c9ee247.webp" height="25px" width="25px"> | RustKey |
+| <img src="icons/s8/c458b48070ca6f3073128d085c9ee247.webp" height="25px" width="25px"> | [RustKey](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/RustyKey/RustyKey.md) |
 | <img src="icons/s8/635619778e50cc8f69df91cc6ae149c4.webp" height="25px" width="25px"> | [Voleur](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Voleur/Voleur.md) |
 | <img src="icons/s8/b1096fc86df3fb6035baad7f599094be.webp" height="25px" width="25px"> | Outbound |
 | <img src="icons/s8/5c9c46ad001394e992f1c7b830ee77e5.webp" height="25px" width="25px"> | Mirage |
