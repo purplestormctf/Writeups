@@ -45,7 +45,7 @@
 | <img src="icons/s8/c458b48070ca6f3073128d085c9ee247.webp" height="25px" width="25px"> | [RustKey](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/RustyKey/RustyKey.md) |
 | <img src="icons/s8/635619778e50cc8f69df91cc6ae149c4.webp" height="25px" width="25px"> | [Voleur](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Voleur/Voleur.md) |
 | <img src="icons/s8/b1096fc86df3fb6035baad7f599094be.webp" height="25px" width="25px"> | [Outbound](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Outbound/Outbound.md) |
-| <img src="icons/s8/5c9c46ad001394e992f1c7b830ee77e5.webp" height="25px" width="25px"> | Mirage |
+| <img src="icons/s8/5c9c46ad001394e992f1c7b830ee77e5.webp" height="25px" width="25px"> | [Mirage](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Mirage/Mirage.md) |
 | <img src="icons/s8/fcd00b2542a936e4281ba19e0bd0b025.webp" height="25px" width="25px"> | Era |
 | <img src="icons/s8/ba9dec0d022d3c3b6a96aa5dba4772c7.webp" height="25px" width="25px"> | Editor |
 | <img src="icons/s8/3797a108e247283840cd570b057a03a5.png" height="25px" width="25px"> | Cobblestone |
