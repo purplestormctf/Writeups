@@ -257,10 +257,11 @@
 | --- | --- | 
 | <img src="icons/non/c9efb253e7d1d9b407113e11afdaa905.webp" height="25px" width="25px"> | [Planning](https://github.com/purplestormctf/Writeups/tree/main/htb/machines/Planning/Planning.md) |
 | <img src="icons/non/992c992925936b399906f2a78a740eea.png" height="25px" width="25px"> | CodePartTwo |
-| <img src="icons/non/f34c6756e7c75b48ec112831eb27940a.png" height="25px" width="25px"> | Previous |
+| <img src="icons/non/f34c6756e7c75b48ec112831eb27940a.png" height="25px" width="25px"> | [Previous](https://github.com/purplestormctf/Writeups/tree/main/htb/machines/Previous/Previous.md) |
 | <img src="icons/non/9ad17eb4ab494c5eaa0336eee0a8254d.png" height="25px" width="25px"> | Guardian |
 | <img src="icons/non/2c47fcf9c85c7fbdda73a9c1b54fd60e.png" height="25px" width="25px"> | Soulmate |
 | <img src="icons/non/d131f54a035866ca64f0aff0a8e1fc14.png" height="25px" width="25px"> | HackNet |
+| <img src="icons/non/e8bbf358e6247fc98dcb76a3819bb5d0.png" height="25px" width="25px"> | Browsed |
 
 </td>
 </tr>
