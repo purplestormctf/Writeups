@@ -10,7 +10,7 @@
 <tr>
   <th>Season 7 <br>Jan 2025 - Apr 2025</th>
   <th>Season 8 <br>May 2025 - Aug 2025</th>
-  <th>Season 9 <br>Sep 2025</th>
+  <th>Season 9 <br>Sep 2025 - Dec 2025</th>
 </tr>
 <tr>
 <td>
@@ -67,7 +67,7 @@
 | <img src="icons/s9/cf8b89b5cb6d13b0a63831c98086d2be.png" height="25px" width="25px"> | Fries |
 | <img src="icons/s9/2e446c813e2fa67622764672b9df57bb.png" height="25px" width="25px"> | Gavel |
 | <img src="icons/s9/c7878dd8dba2eb248a89584ec958a5b8.png" height="25px" width="25px"> | MonitorsFour |
-| <img src="icons/s9/" height="25px" width="25px"> | tba |
+| <img src="icons/s9/f2a6452f0780f3b2205af8634a563024.png" height="25px" width="25px"> | Eloquia |
 
 </td>
 
