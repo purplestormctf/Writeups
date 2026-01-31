@@ -8,6 +8,73 @@
 
 <table>
 <tr>
+  <th>Season 10 <br>Jan 2026</th>
+  <th>Season 11 <br>tba</th>
+  <th>Season 12 <br>tba</th>
+</tr>
+<tr>
+<td>
+
+| | |
+| --- | --- |
+| <img src="icons/s10/bdcd209c32f156fbfb2268f099971f75.png" height="25px" width="25px"> | Facts | |
+| <img src="icons/s10/c9b2b698f60a9ab8da6c444a9f80e9bc.png" height="25px" width="25px"> | Pterodactyl | |
+| <img src="icons/s10/d419202507a3bbf06e764c1c4a524f66.png" height="25px" width="25px"> | WingData | |
+| <img src="icons/s10/" height="25px" width="25px"> | tba | |
+| <img src="icons/s10/" height="25px" width="25px"> | tba | |
+| <img src="icons/s10/" height="25px" width="25px"> | tba | |
+| <img src="icons/s10/" height="25px" width="25px"> | tba | |
+| <img src="icons/s10/" height="25px" width="25px"> | tba | |
+| <img src="icons/s10/" height="25px" width="25px"> | tba | |
+| <img src="icons/s10/" height="25px" width="25px"> | tba | |
+| <img src="icons/s10/" height="25px" width="25px"> | tba | |
+| <img src="icons/s10/" height="25px" width="25px"> | tba | |
+| <img src="icons/s10/" height="25px" width="25px"> | tba | |
+
+</td>
+<td>
+
+| | |
+| --- | --- |
+| <img src="icons/s11/" height="25px" width="25px"> | tba | |
+| <img src="icons/s11/" height="25px" width="25px"> | tba | |
+| <img src="icons/s11/" height="25px" width="25px"> | tba | |
+| <img src="icons/s11/" height="25px" width="25px"> | tba | |
+| <img src="icons/s11/" height="25px" width="25px"> | tba | |
+| <img src="icons/s11/" height="25px" width="25px"> | tba | |
+| <img src="icons/s11/" height="25px" width="25px"> | tba | |
+| <img src="icons/s11/" height="25px" width="25px"> | tba | |
+| <img src="icons/s11/" height="25px" width="25px"> | tba | |
+| <img src="icons/s11/" height="25px" width="25px"> | tba | |
+| <img src="icons/s11/" height="25px" width="25px"> | tba | |
+| <img src="icons/s11/" height="25px" width="25px"> | tba | |
+| <img src="icons/s11/" height="25px" width="25px"> | tba | |
+
+</td>
+<td>
+  
+| | |
+| --- | --- |
+| <img src="icons/s12/" height="25px" width="25px"> | tba | |
+| <img src="icons/s12/" height="25px" width="25px"> | tba | |
+| <img src="icons/s12/" height="25px" width="25px"> | tba | |
+| <img src="icons/s12/" height="25px" width="25px"> | tba | |
+| <img src="icons/s12/" height="25px" width="25px"> | tba | |
+| <img src="icons/s12/" height="25px" width="25px"> | tba | |
+| <img src="icons/s12/" height="25px" width="25px"> | tba | |
+| <img src="icons/s12/" height="25px" width="25px"> | tba | |
+| <img src="icons/s12/" height="25px" width="25px"> | tba | |
+| <img src="icons/s12/" height="25px" width="25px"> | tba | |
+| <img src="icons/s12/" height="25px" width="25px"> | tba | |
+| <img src="icons/s12/" height="25px" width="25px"> | tba | |
+| <img src="icons/s12/" height="25px" width="25px"> | tba | |
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
   <th>Season 7 <br>Jan 2025 - Apr 2025</th>
   <th>Season 8 <br>May 2025 - Aug 2025</th>
   <th>Season 9 <br>Sep 2025 - Dec 2025</th>
@@ -70,6 +137,8 @@
 | <img src="icons/s9/f2a6452f0780f3b2205af8634a563024.png" height="25px" width="25px"> | Eloquia |
 
 </td>
+</tr>
+</table>
 
 <table>
 <tr>
@@ -256,7 +325,7 @@
 | | | 
 | --- | --- | 
 | <img src="icons/non/c9efb253e7d1d9b407113e11afdaa905.webp" height="25px" width="25px"> | [Planning](https://github.com/purplestormctf/Writeups/tree/main/htb/machines/Planning/Planning.md) |
-| <img src="icons/non/992c992925936b399906f2a78a740eea.png" height="25px" width="25px"> | CodePartTwo |
+| <img src="icons/non/992c992925936b399906f2a78a740eea.png" height="25px" width="25px"> | [CodePartTwo](https://github.com/purplestormctf/Writeups/tree/main/htb/machines/CodePartTwo/CodePartTwo.md) |
 | <img src="icons/non/f34c6756e7c75b48ec112831eb27940a.png" height="25px" width="25px"> | [Previous](https://github.com/purplestormctf/Writeups/tree/main/htb/machines/Previous/Previous.md) |
 | <img src="icons/non/9ad17eb4ab494c5eaa0336eee0a8254d.png" height="25px" width="25px"> | Guardian |
 | <img src="icons/non/2c47fcf9c85c7fbdda73a9c1b54fd60e.png" height="25px" width="25px"> | Soulmate |
