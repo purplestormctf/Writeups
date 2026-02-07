@@ -125,7 +125,7 @@
 | <img src="icons/s9/75c168f01f04e5f256838733b77f13ec.png" height="25px" width="25px"> | Expressway |
 | <img src="icons/s9/662ccbe3935d62aee031d620014adac4.png" height="25px" width="25px"> | [Imagery](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Imagery/Imagery.md) |
 | <img src="icons/s9/78acdd0d87ed629f6cd2dc378bdcddac.png" height="25px" width="25px"> | DarkZero |
-| <img src="icons/s9/7aaaac3fafe5bc8737560ba0264c4577.png" height="25px" width="25px"> | Signed |
+| <img src="icons/s9/7aaaac3fafe5bc8737560ba0264c4577.png" height="25px" width="25px"> | [Signed](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Signed/Signed.md) |
 | <img src="icons/s9/e311c1459cd3dce5f29dc4de889cbb8a.png" height="25px" width="25px"> | Hercules |
 | <img src="icons/s9/0b659c391f2803c247e79c77a3284f96.png" height="25px" width="25px"> | Conversor |
 | <img src="icons/s9/243db542f3168e3393c4cabf699a665e.png" height="25px" width="25px"> | Giveback |
