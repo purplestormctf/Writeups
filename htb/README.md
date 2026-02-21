@@ -128,7 +128,7 @@
 | <img src="icons/s9/7aaaac3fafe5bc8737560ba0264c4577.png" height="25px" width="25px"> | [Signed](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Signed/Signed.md) |
 | <img src="icons/s9/e311c1459cd3dce5f29dc4de889cbb8a.png" height="25px" width="25px"> | Hercules |
 | <img src="icons/s9/0b659c391f2803c247e79c77a3284f96.png" height="25px" width="25px"> | Conversor |
-| <img src="icons/s9/243db542f3168e3393c4cabf699a665e.png" height="25px" width="25px"> | Giveback |
+| <img src="icons/s9/243db542f3168e3393c4cabf699a665e.png" height="25px" width="25px"> | [Giveback](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Giveback/Giveback.md) |
 | <img src="icons/s9/07f266f9996280c6d935969ed73e1aca.png" height="25px" width="25px"> | NanoCorp |
 | <img src="icons/s9/e9799c53134d081b7510bfe03211ffa9.png" height="25px" width="25px"> | Eighteen |
 | <img src="icons/s9/cf8b89b5cb6d13b0a63831c98086d2be.png" height="25px" width="25px"> | Fries |
