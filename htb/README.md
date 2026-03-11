@@ -23,7 +23,7 @@
 | <img src="icons/s10/09ad7380d2a445fff16a31fadcd35ff6.png" height="25px" width="25px"> | Interpreter | |
 | <img src="icons/s10/5fc0db532017e570ae0daf199e5cd6ac.png" height="25px" width="25px"> | Pirate | |
 | <img src="icons/s10/9867e8b14b7602881160973ebb50b2c4.png" height="25px" width="25px"> | CCTV | |
-| <img src="icons/s10/" height="25px" width="25px"> | tba | |
+| <img src="icons/s10/1c63aff74baeaf6afdb5f35519756ab1.png" height="25px" width="25px"> | VariaType | |
 | <img src="icons/s10/" height="25px" width="25px"> | tba | |
 | <img src="icons/s10/" height="25px" width="25px"> | tba | |
 | <img src="icons/s10/" height="25px" width="25px"> | tba | |
