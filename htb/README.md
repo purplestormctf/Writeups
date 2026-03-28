@@ -338,7 +338,7 @@
 
 | | | 
 | --- | --- |
-| <img src="icons/non/e8bbf358e6247fc98dcb76a3819bb5d0.png" height="25px" width="25px"> | Browsed |
+| <img src="icons/non/e8bbf358e6247fc98dcb76a3819bb5d0.png" height="25px" width="25px"> | [Browsed](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Browsed/Browsed.md) |
 | <img src="icons/non/5b124d2ac2f4f539eb37bd678f3196e8.png" height="25px" width="25px"> | AirTouch |
 | <img src="icons/non/533c1547f3f17ead6917b25782664de1.png" height="25px" width="25px"> | Overwatch |
 | <img src="icons/non/" height="25px" width="25px"> | n/a |
