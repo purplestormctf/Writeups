@@ -27,7 +27,7 @@
 | <img src="icons/s10/2ff7f3683782c3525c5ac9ed275cc989.png" height="25px" width="25px"> | Kobold | |
 | <img src="icons/s10/88d6d295a9624c91cbdae1e0215cb354.png" height="25px" width="25px"> | DevArea | |
 | <img src="icons/s10/a7ee5b5ec5cb4c2bf96545fda71ea8e6.png" height="25px" width="25px"> | Garfield | |
-| <img src="icons/s10/" height="25px" width="25px"> | tba | |
+| <img src="icons/s10/601d72b592e6b78aee56dbc086ec7089.png" height="25px" width="25px"> | Silentium | |
 | <img src="icons/s10/" height="25px" width="25px"> | tba | |
 | <img src="icons/s10/" height="25px" width="25px"> | tba | |
 
