@@ -130,7 +130,7 @@
 | <img src="icons/s9/0b659c391f2803c247e79c77a3284f96.png" height="25px" width="25px"> | [Conversor](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Conversor/Conversor.md) |
 | <img src="icons/s9/243db542f3168e3393c4cabf699a665e.png" height="25px" width="25px"> | [Giveback](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Giveback/Giveback.md) |
 | <img src="icons/s9/07f266f9996280c6d935969ed73e1aca.png" height="25px" width="25px"> | NanoCorp |
-| <img src="icons/s9/e9799c53134d081b7510bfe03211ffa9.png" height="25px" width="25px"> | Eighteen |
+| <img src="icons/s9/e9799c53134d081b7510bfe03211ffa9.png" height="25px" width="25px"> | [Eighteen](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Eighteen/Eighteen.md) |
 | <img src="icons/s9/cf8b89b5cb6d13b0a63831c98086d2be.png" height="25px" width="25px"> | Fries |
 | <img src="icons/s9/2e446c813e2fa67622764672b9df57bb.png" height="25px" width="25px"> | [Gavel](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Gavel/Gavel.md) |
 | <img src="icons/s9/c7878dd8dba2eb248a89584ec958a5b8.png" height="25px" width="25px"> | MonitorsFour |
