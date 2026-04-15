@@ -16,4 +16,5 @@ This represents our writeup collection of past CTFs, boxes and challenges from v
 ## Table of Contents
 
 - [Hack The Box](htb)
+- [Ronin66](ronin66)
 - [Vulnlab](vulnlab)
