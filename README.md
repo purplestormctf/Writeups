@@ -1,16 +1,12 @@
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="8">
+  <table border="0" cellspacing="10" cellpadding="0">
     <tr>
-      <td align="center" rowspan="2" width="50%">
+      <td align="center" valign="top">
+        <img src="images/htb.webp" width="100%"><br>
+        <img src="images/vulnlb.png" width="100%">
+      </td>
+      <td align="center" valign="top">
         <img src="images/ronin66.png" width="100%">
-      </td>
-      <td align="center" width="50%">
-        <img src="images/htb.webp" width="100%">
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="50%">
-        <img src="images/vulnlab.png" width="100%">
       </td>
     </tr>
   </table>
