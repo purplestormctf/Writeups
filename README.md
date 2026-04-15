@@ -1,8 +1,20 @@
- <div align="center">
-   <img align="left" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejhtYnBrd25vczVjcmcwajNueW9hNXVyMXNwbDNhYmdzbHh1c292aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/V9OsQgyaVeJ9Rxf0jH/giphy.webp" width="35%"> 
-   <img align="left" src="images/ronin66.png" width="50%"> 
-   <img align="right" src="images/writeup_banner.png" width="50%">
-</div> 
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="8">
+    <tr>
+      <td align="center" rowspan="2" width="50%">
+        <img src="images/ronin66.png" width="100%">
+      </td>
+      <td align="center" width="50%">
+        <img src="images/htb.webp" width="100%">
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <img src="images/vulnlab.png" width="100%">
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br><br><br>
 
