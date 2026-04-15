@@ -3,7 +3,7 @@
     <tr>
       <td align="center" valign="top">
         <img src="images/htb.webp" width="100%"><br>
-        <img src="images/vulnlb.png" width="100%">
+        <img src="images/vulnlab.png" width="100%">
       </td>
       <td align="center" valign="top">
         <img src="images/ronin66.png" width="100%">
