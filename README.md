@@ -1,6 +1,6 @@
 <div align="center">
   <img align="left" src="images/htb.webp" width="35%">
-  <img align="right" src="images/ronin66.png" width="50%">
+  <img align="right" src="images/ronin66.png" width="40%">
 </div>
 
 <br><br><br>
