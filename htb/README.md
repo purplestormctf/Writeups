@@ -29,7 +29,7 @@
 | <img src="icons/s10/a7ee5b5ec5cb4c2bf96545fda71ea8e6.png" height="25px" width="25px"> | Garfield | |
 | <img src="icons/s10/601d72b592e6b78aee56dbc086ec7089.png" height="25px" width="25px"> | Silentium | |
 | <img src="icons/s10/4905cd7ce220aa3405c4bac3e62929c9.png" height="25px" width="25px"> | Logging | |
-| <img src="icons/s10/" height="25px" width="25px"> | tba | |
+| <img src="icons/s10/9925ba6ea7c59b3d61c03d0465e87ee4.png" height="25px" width="25px"> | PingPong | |
 
 </td>
 <td>
