@@ -8,7 +8,7 @@
 
 <table>
 <tr>
-  <th>Season 10 <br>Jan 2026</th>
+  <th>Season 10 <br>Jan 2026 - Apr 2026</th>
   <th>Season 11 <br>tba</th>
   <th>Season 12 <br>tba</th>
 </tr>
@@ -339,7 +339,7 @@
 | | | 
 | --- | --- |
 | <img src="icons/non/e8bbf358e6247fc98dcb76a3819bb5d0.png" height="25px" width="25px"> | [Browsed](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Browsed/Browsed.md) |
-| <img src="icons/non/5b124d2ac2f4f539eb37bd678f3196e8.png" height="25px" width="25px"> | AirTouch |
+| <img src="icons/non/5b124d2ac2f4f539eb37bd678f3196e8.png" height="25px" width="25px"> | [AirTouch](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/AirTouch/AirTouch.md) |
 | <img src="icons/non/533c1547f3f17ead6917b25782664de1.png" height="25px" width="25px"> | Overwatch |
 | <img src="icons/non/" height="25px" width="25px"> | n/a |
 | <img src="icons/non/" height="25px" width="25px"> | n/a |
