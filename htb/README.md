@@ -9,7 +9,7 @@
 <table>
 <tr>
   <th>Season 10 <br>Jan 2026 - Apr 2026</th>
-  <th>Season 11 <br>tba</th>
+  <th>Season 11 <br>May 2026</th>
   <th>Season 12 <br>tba</th>
 </tr>
 <tr>
@@ -36,7 +36,7 @@
 
 | | |
 | --- | --- |
-| <img src="icons/s11/" height="25px" width="25px"> | tba | |
+| <img src="icons/s11/56868ca419111fc0721393a2ffa0cefe.png" height="25px" width="25px"> | Reactor | |
 | <img src="icons/s11/" height="25px" width="25px"> | tba | |
 | <img src="icons/s11/" height="25px" width="25px"> | tba | |
 | <img src="icons/s11/" height="25px" width="25px"> | tba | |
@@ -343,7 +343,7 @@
 | <img src="icons/non/533c1547f3f17ead6917b25782664de1.png" height="25px" width="25px"> | [Overwatch](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Overwatch/Overwatch.md) |
 | <img src="icons/non/9ef7dfc0282a2ed0dfd37bc16fd15bb5.png" height="25px" width="25px"> | Helix |
 | <img src="icons/non/26260a4f7f1e95d188a99210fb2ae693.png" height="25px" width="25px"> | SmartHire |
-| <img src="icons/non/56868ca419111fc0721393a2ffa0cefe.png" height="25px" width="25px"> | Reactor |
+| <img src="icons/non/" height="25px" width="25px"> | n/a |
 | <img src="icons/non/" height="25px" width="25px"> | n/a |
 | <img src="icons/non/" height="25px" width="25px"> | n/a |
 
