@@ -17,57 +17,57 @@
 
 | | |
 | --- | --- |
-| <img src="icons/s10/bdcd209c32f156fbfb2268f099971f75.png" height="25px" width="25px"> | Facts | |
-| <img src="icons/s10/c9b2b698f60a9ab8da6c444a9f80e9bc.png" height="25px" width="25px"> | [Pterodactyl](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Pterodactyl/Pterodactyl.md) | |
-| <img src="icons/s10/d419202507a3bbf06e764c1c4a524f66.png" height="25px" width="25px"> | WingData | |
-| <img src="icons/s10/09ad7380d2a445fff16a31fadcd35ff6.png" height="25px" width="25px"> | Interpreter | |
-| <img src="icons/s10/5fc0db532017e570ae0daf199e5cd6ac.png" height="25px" width="25px"> | Pirate | |
-| <img src="icons/s10/9867e8b14b7602881160973ebb50b2c4.png" height="25px" width="25px"> | CCTV | |
-| <img src="icons/s10/1c63aff74baeaf6afdb5f35519756ab1.png" height="25px" width="25px"> | VariaType | |
-| <img src="icons/s10/2ff7f3683782c3525c5ac9ed275cc989.png" height="25px" width="25px"> | Kobold | |
-| <img src="icons/s10/88d6d295a9624c91cbdae1e0215cb354.png" height="25px" width="25px"> | DevArea | |
-| <img src="icons/s10/a7ee5b5ec5cb4c2bf96545fda71ea8e6.png" height="25px" width="25px"> | Garfield | |
-| <img src="icons/s10/601d72b592e6b78aee56dbc086ec7089.png" height="25px" width="25px"> | Silentium | |
-| <img src="icons/s10/4905cd7ce220aa3405c4bac3e62929c9.png" height="25px" width="25px"> | Logging | |
-| <img src="icons/s10/9925ba6ea7c59b3d61c03d0465e87ee4.png" height="25px" width="25px"> | PingPong | |
+| <img src="icons/s10/bdcd209c32f156fbfb2268f099971f75.png" height="25px" width="25px"> | Facts |
+| <img src="icons/s10/c9b2b698f60a9ab8da6c444a9f80e9bc.png" height="25px" width="25px"> | [Pterodactyl](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Pterodactyl/Pterodactyl.md) |
+| <img src="icons/s10/d419202507a3bbf06e764c1c4a524f66.png" height="25px" width="25px"> | WingData |
+| <img src="icons/s10/09ad7380d2a445fff16a31fadcd35ff6.png" height="25px" width="25px"> | Interpreter |
+| <img src="icons/s10/5fc0db532017e570ae0daf199e5cd6ac.png" height="25px" width="25px"> | Pirate |
+| <img src="icons/s10/9867e8b14b7602881160973ebb50b2c4.png" height="25px" width="25px"> | CCTV |
+| <img src="icons/s10/1c63aff74baeaf6afdb5f35519756ab1.png" height="25px" width="25px"> | VariaType |
+| <img src="icons/s10/2ff7f3683782c3525c5ac9ed275cc989.png" height="25px" width="25px"> | Kobold |
+| <img src="icons/s10/88d6d295a9624c91cbdae1e0215cb354.png" height="25px" width="25px"> | DevArea |
+| <img src="icons/s10/a7ee5b5ec5cb4c2bf96545fda71ea8e6.png" height="25px" width="25px"> | Garfield |
+| <img src="icons/s10/601d72b592e6b78aee56dbc086ec7089.png" height="25px" width="25px"> | Silentium |
+| <img src="icons/s10/4905cd7ce220aa3405c4bac3e62929c9.png" height="25px" width="25px"> | Logging |
+| <img src="icons/s10/9925ba6ea7c59b3d61c03d0465e87ee4.png" height="25px" width="25px"> | PingPong |
 
 </td>
 <td>
 
 | | |
 | --- | --- |
-| <img src="icons/s11/56868ca419111fc0721393a2ffa0cefe.png" height="25px" width="25px"> | Reactor | |
-| <img src="icons/s11/" height="25px" width="25px"> | tba | |
-| <img src="icons/s11/" height="25px" width="25px"> | tba | |
-| <img src="icons/s11/" height="25px" width="25px"> | tba | |
-| <img src="icons/s11/" height="25px" width="25px"> | tba | |
-| <img src="icons/s11/" height="25px" width="25px"> | tba | |
-| <img src="icons/s11/" height="25px" width="25px"> | tba | |
-| <img src="icons/s11/" height="25px" width="25px"> | tba | |
-| <img src="icons/s11/" height="25px" width="25px"> | tba | |
-| <img src="icons/s11/" height="25px" width="25px"> | tba | |
-| <img src="icons/s11/" height="25px" width="25px"> | tba | |
-| <img src="icons/s11/" height="25px" width="25px"> | tba | |
-| <img src="icons/s11/" height="25px" width="25px"> | tba | |
+| <img src="icons/s11/56868ca419111fc0721393a2ffa0cefe.png" height="25px" width="25px"> | Reactor |
+| <img src="icons/s11/8e821c7bbdb90d8520bb597edae70080.png" height="25px" width="25px"> | DevHub |
+| <img src="icons/s11/5f828febf436aa997dff714a184614fe.png" height="25px" width="25px"> | Connected |
+| <img src="icons/s11/" height="25px" width="25px"> | tba |
+| <img src="icons/s11/" height="25px" width="25px"> | tba |
+| <img src="icons/s11/" height="25px" width="25px"> | tba |
+| <img src="icons/s11/" height="25px" width="25px"> | tba |
+| <img src="icons/s11/" height="25px" width="25px"> | tba |
+| <img src="icons/s11/" height="25px" width="25px"> | tba |
+| <img src="icons/s11/" height="25px" width="25px"> | tba |
+| <img src="icons/s11/" height="25px" width="25px"> | tba |
+| <img src="icons/s11/" height="25px" width="25px"> | tba |
+| <img src="icons/s11/" height="25px" width="25px"> | tba |
 
 </td>
 <td>
   
 | | |
 | --- | --- |
-| <img src="icons/s12/" height="25px" width="25px"> | tba | |
-| <img src="icons/s12/" height="25px" width="25px"> | tba | |
-| <img src="icons/s12/" height="25px" width="25px"> | tba | |
-| <img src="icons/s12/" height="25px" width="25px"> | tba | |
-| <img src="icons/s12/" height="25px" width="25px"> | tba | |
-| <img src="icons/s12/" height="25px" width="25px"> | tba | |
-| <img src="icons/s12/" height="25px" width="25px"> | tba | |
-| <img src="icons/s12/" height="25px" width="25px"> | tba | |
-| <img src="icons/s12/" height="25px" width="25px"> | tba | |
-| <img src="icons/s12/" height="25px" width="25px"> | tba | |
-| <img src="icons/s12/" height="25px" width="25px"> | tba | |
-| <img src="icons/s12/" height="25px" width="25px"> | tba | |
-| <img src="icons/s12/" height="25px" width="25px"> | tba | |
+| <img src="icons/s12/" height="25px" width="25px"> | tba |
+| <img src="icons/s12/" height="25px" width="25px"> | tba |
+| <img src="icons/s12/" height="25px" width="25px"> | tba |
+| <img src="icons/s12/" height="25px" width="25px"> | tba |
+| <img src="icons/s12/" height="25px" width="25px"> | tba |
+| <img src="icons/s12/" height="25px" width="25px"> | tba |
+| <img src="icons/s12/" height="25px" width="25px"> | tba |
+| <img src="icons/s12/" height="25px" width="25px"> | tba |
+| <img src="icons/s12/" height="25px" width="25px"> | tba |
+| <img src="icons/s12/" height="25px" width="25px"> | tba |
+| <img src="icons/s12/" height="25px" width="25px"> | tba |
+| <img src="icons/s12/" height="25px" width="25px"> | tba |
+| <img src="icons/s12/" height="25px" width="25px"> | tba |
 
 </td>
 </tr>
