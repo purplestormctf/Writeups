@@ -39,9 +39,9 @@
 | <img src="icons/s11/56868ca419111fc0721393a2ffa0cefe.png" height="25px" width="25px"> | Reactor |
 | <img src="icons/s11/8e821c7bbdb90d8520bb597edae70080.png" height="25px" width="25px"> | DevHub |
 | <img src="icons/s11/5f828febf436aa997dff714a184614fe.png" height="25px" width="25px"> | Connected |
-| <img src="icons/s11/" height="25px" width="25px"> | tba |
-| <img src="icons/s11/" height="25px" width="25px"> | tba |
-| <img src="icons/s11/" height="25px" width="25px"> | tba |
+| <img src="icons/s11/d90d9ba3228fb458485c03a1b4c2f6e5.png" height="25px" width="25px"> | Checkpoint |
+| <img src="icons/s11/01d07f853ff5e6e4a23bf2e649de81e8.png" height="25px" width="25px"> | Nimbus |
+| <img src="icons/s11/131f520bad7d91e8bb5d3c11654467dd.png" height="25px" width="25px"> | Enigma |
 | <img src="icons/s11/" height="25px" width="25px"> | tba |
 | <img src="icons/s11/" height="25px" width="25px"> | tba |
 | <img src="icons/s11/" height="25px" width="25px"> | tba |
