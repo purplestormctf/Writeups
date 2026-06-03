@@ -42,8 +42,8 @@
 | <img src="icons/s11/d90d9ba3228fb458485c03a1b4c2f6e5.png" height="25px" width="25px"> | Checkpoint |
 | <img src="icons/s11/01d07f853ff5e6e4a23bf2e649de81e8.png" height="25px" width="25px"> | Nimbus |
 | <img src="icons/s11/131f520bad7d91e8bb5d3c11654467dd.png" height="25px" width="25px"> | Enigma |
-| <img src="icons/s11/" height="25px" width="25px"> | tba |
-| <img src="icons/s11/" height="25px" width="25px"> | tba |
+| <img src="icons/s11/bd5ffc0669be97a5d61c3117efb657c6.png" height="25px" width="25px"> | MakeSense |
+| <img src="icons/s11/a0f93198adfbe423b71b994ad3a5753f.png" height="25px" width="25px"> | Paperwork |
 | <img src="icons/s11/" height="25px" width="25px"> | tba |
 | <img src="icons/s11/" height="25px" width="25px"> | tba |
 | <img src="icons/s11/" height="25px" width="25px"> | tba |
