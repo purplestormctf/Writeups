@@ -17,7 +17,7 @@
 
 | | |
 | --- | --- |
-| <img src="icons/s10/bdcd209c32f156fbfb2268f099971f75.png" height="25px" width="25px"> | Facts |
+| <img src="icons/s10/bdcd209c32f156fbfb2268f099971f75.png" height="25px" width="25px"> | [Facts](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Facts/Facts.md) |
 | <img src="icons/s10/c9b2b698f60a9ab8da6c444a9f80e9bc.png" height="25px" width="25px"> | [Pterodactyl](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Pterodactyl/Pterodactyl.md) |
 | <img src="icons/s10/d419202507a3bbf06e764c1c4a524f66.png" height="25px" width="25px"> | WingData |
 | <img src="icons/s10/09ad7380d2a445fff16a31fadcd35ff6.png" height="25px" width="25px"> | [Interpreter](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Interpreter/Interpreter.md) |
