@@ -44,10 +44,10 @@
 | <img src="icons/s11/131f520bad7d91e8bb5d3c11654467dd.png" height="25px" width="25px"> | Enigma |
 | <img src="icons/s11/bd5ffc0669be97a5d61c3117efb657c6.png" height="25px" width="25px"> | MakeSense |
 | <img src="icons/s11/a0f93198adfbe423b71b994ad3a5753f.png" height="25px" width="25px"> | Paperwork |
-| <img src="icons/s11/" height="25px" width="25px"> | tba |
-| <img src="icons/s11/" height="25px" width="25px"> | tba |
-| <img src="icons/s11/" height="25px" width="25px"> | tba |
-| <img src="icons/s11/" height="25px" width="25px"> | tba |
+| <img src="icons/s11/0be1d03984897472ecb4a8cad388e98d.png" height="25px" width="25px"> | Bedside |
+| <img src="icons/s11/1f43b7aaa1f90d18e27e4955c2abf4af.png" height="25px" width="25px"> | DarkZeroReturns |
+| <img src="icons/s11/4d34735f0b19825ca4e246bf7fe62027.png" height="25px" width="25px"> | Cohort |
+| <img src="icons/s11/8d60a77765ceb65096608b75e4993b92.png" height="25px" width="25px"> | DanglingTree |
 | <img src="icons/s11/" height="25px" width="25px"> | tba |
 
 </td>
