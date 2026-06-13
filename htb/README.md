@@ -23,7 +23,7 @@
 | <img src="icons/s10/09ad7380d2a445fff16a31fadcd35ff6.png" height="25px" width="25px"> | [Interpreter](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Interpreter/Interpreter.md) |
 | <img src="icons/s10/5fc0db532017e570ae0daf199e5cd6ac.png" height="25px" width="25px"> | Pirate |
 | <img src="icons/s10/9867e8b14b7602881160973ebb50b2c4.png" height="25px" width="25px"> | CCTV |
-| <img src="icons/s10/1c63aff74baeaf6afdb5f35519756ab1.png" height="25px" width="25px"> | VariaType |
+| <img src="icons/s10/1c63aff74baeaf6afdb5f35519756ab1.png" height="25px" width="25px"> | [VariaType](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/VariaType/VariaType.md) |
 | <img src="icons/s10/2ff7f3683782c3525c5ac9ed275cc989.png" height="25px" width="25px"> | Kobold |
 | <img src="icons/s10/88d6d295a9624c91cbdae1e0215cb354.png" height="25px" width="25px"> | DevArea |
 | <img src="icons/s10/a7ee5b5ec5cb4c2bf96545fda71ea8e6.png" height="25px" width="25px"> | Garfield |
