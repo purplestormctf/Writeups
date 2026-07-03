@@ -48,7 +48,7 @@
 | <img src="icons/s11/1f43b7aaa1f90d18e27e4955c2abf4af.png" height="25px" width="25px"> | DarkZeroReturns |
 | <img src="icons/s11/4d34735f0b19825ca4e246bf7fe62027.png" height="25px" width="25px"> | Cohort |
 | <img src="icons/s11/8d60a77765ceb65096608b75e4993b92.png" height="25px" width="25px"> | DanglingTree |
-| <img src="icons/s11/" height="25px" width="25px"> | tba |
+| <img src="icons/s11/a22a6987-d3b2-4b23-a843-db9f38b06566-1783030428.png" height="25px" width="25px"> | TrustFall |
 
 </td>
 <td>
