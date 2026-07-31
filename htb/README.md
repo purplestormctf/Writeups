@@ -343,8 +343,8 @@
 | <img src="icons/non/533c1547f3f17ead6917b25782664de1.png" height="25px" width="25px"> | [Overwatch](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Overwatch/Overwatch.md) |
 | <img src="icons/non/9ef7dfc0282a2ed0dfd37bc16fd15bb5.png" height="25px" width="25px"> | Helix |
 | <img src="icons/non/26260a4f7f1e95d188a99210fb2ae693.png" height="25px" width="25px"> | SmartHire |
-| <img src="icons/non/" height="25px" width="25px"> | n/a |
-| <img src="icons/non/" height="25px" width="25px"> | n/a |
+| <img src="icons/non/a261b49a-7ddc-4eac-a75a-8fd26a7ff740-1785405255.png" height="25px" width="25px"> | Scaffold |
+| <img src="icons/non/a261b8b2-9dd5-4958-aaac-ca53661ab002-1785405942.png" height="25px" width="25px"> | Management |
 | <img src="icons/non/" height="25px" width="25px"> | n/a |
 
 </td>
