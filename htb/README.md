@@ -115,7 +115,7 @@
 | <img src="icons/s8/5c9c46ad001394e992f1c7b830ee77e5.webp" height="25px" width="25px"> | [Mirage](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Mirage/Mirage.md) |
 | <img src="icons/s8/fcd00b2542a936e4281ba19e0bd0b025.webp" height="25px" width="25px"> | [Era](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Era/Era.md) |
 | <img src="icons/s8/ba9dec0d022d3c3b6a96aa5dba4772c7.webp" height="25px" width="25px"> | [Editor](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Editor/Editor.md) |
-| <img src="icons/s8/3797a108e247283840cd570b057a03a5.png" height="25px" width="25px"> | Cobblestone |
+| <img src="icons/s8/3797a108e247283840cd570b057a03a5.png" height="25px" width="25px"> | [Cobblestone](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Cobblestone/Cobblestone.md) |
 
 </td>
 <td>
