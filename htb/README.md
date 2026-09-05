@@ -21,7 +21,7 @@
 | <img src="icons/s10/c9b2b698f60a9ab8da6c444a9f80e9bc.png" height="25px" width="25px"> | [Pterodactyl](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Pterodactyl/Pterodactyl.md) |
 | <img src="icons/s10/d419202507a3bbf06e764c1c4a524f66.png" height="25px" width="25px"> | [WingData](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/WingData/WingData.md) |
 | <img src="icons/s10/09ad7380d2a445fff16a31fadcd35ff6.png" height="25px" width="25px"> | [Interpreter](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Interpreter/Interpreter.md) |
-| <img src="icons/s10/5fc0db532017e570ae0daf199e5cd6ac.png" height="25px" width="25px"> | Pirate |
+| <img src="icons/s10/5fc0db532017e570ae0daf199e5cd6ac.png" height="25px" width="25px"> | [Pirate](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Pirate/Pirate.md) |
 | <img src="icons/s10/9867e8b14b7602881160973ebb50b2c4.png" height="25px" width="25px"> | [CCTV](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/CCTV/CCTV.md) |
 | <img src="icons/s10/1c63aff74baeaf6afdb5f35519756ab1.png" height="25px" width="25px"> | [VariaType](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/VariaType/VariaType.md) |
 | <img src="icons/s10/2ff7f3683782c3525c5ac9ed275cc989.png" height="25px" width="25px"> | [Kobold](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Kobold/Kobold.md) |
