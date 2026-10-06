@@ -9,8 +9,8 @@
 <table>
 <tr>
   <th>Season 10 <br>Jan 2026 - Apr 2026</th>
-  <th>Season 11 <br>May 2026</th>
-  <th>Season 12 <br>tba</th>
+  <th>Season 11 <br>May 2026 - Sep 2026</th>
+  <th>Season 12 <br>Oct 2026</th>
 </tr>
 <tr>
 <td>
@@ -36,7 +36,7 @@
 
 | | |
 | --- | --- |
-| <img src="icons/s11/56868ca419111fc0721393a2ffa0cefe.png" height="25px" width="25px"> | Reactor |
+| <img src="icons/s11/56868ca419111fc0721393a2ffa0cefe.png" height="25px" width="25px"> | [Reactor](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Reactor/Reactor.md) |
 | <img src="icons/s11/8e821c7bbdb90d8520bb597edae70080.png" height="25px" width="25px"> | DevHub |
 | <img src="icons/s11/5f828febf436aa997dff714a184614fe.png" height="25px" width="25px"> | Connected |
 | <img src="icons/s11/d90d9ba3228fb458485c03a1b4c2f6e5.png" height="25px" width="25px"> | Checkpoint |
@@ -55,13 +55,13 @@
   
 | | |
 | --- | --- |
-| <img src="icons/s12/" height="25px" width="25px"> | tba |
-| <img src="icons/s12/" height="25px" width="25px"> | tba |
-| <img src="icons/s12/" height="25px" width="25px"> | tba |
-| <img src="icons/s12/" height="25px" width="25px"> | tba |
-| <img src="icons/s12/" height="25px" width="25px"> | tba |
-| <img src="icons/s12/" height="25px" width="25px"> | tba |
-| <img src="icons/s12/" height="25px" width="25px"> | tba |
+| <img src="icons/s12/a2cc2776-5507-42ae-b9d0-3346ff823ce7-1789977190.png" height="25px" width="25px"> | Layover |
+| <img src="icons/s12/a2cc2bba-5e0b-41f2-842e-2f3d3cee8d22-1789977906.png" height="25px" width="25px"> | Touch |
+| <img src="icons/s12/a2cc2e41-9160-4e35-9d3f-8eb1e98cdf77-1789978330.png" height="25px" width="25px"> | Stream |
+| <img src="icons/s12/a2ccae76-9dec-4da0-a15f-e879aaffd0ca-1789999840.png" height="25px" width="25px"> | Autopilot |
+| <img src="icons/s12/a2ccb5d6-1b4e-4e64-bbd0-30ae061102ed-1790001077.png" height="25px" width="25px"> | DutyBound |
+| <img src="icons/s12/a2ccbd04-996d-4d16-8702-e8328fbb7fb9-1790002282.png" height="25px" width="25px"> | Takeoff |
+| <img src="icons/s12/a2ccc1a4-1b09-482d-adae-2f88e7246c4b-1790003057.png" height="25px" width="25px"> | Unclaimed |
 | <img src="icons/s12/" height="25px" width="25px"> | tba |
 | <img src="icons/s12/" height="25px" width="25px"> | tba |
 | <img src="icons/s12/" height="25px" width="25px"> | tba |
@@ -342,7 +342,7 @@
 | <img src="icons/non/5b124d2ac2f4f539eb37bd678f3196e8.png" height="25px" width="25px"> | [AirTouch](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/AirTouch/AirTouch.md) |
 | <img src="icons/non/533c1547f3f17ead6917b25782664de1.png" height="25px" width="25px"> | [Overwatch](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Overwatch/Overwatch.md) |
 | <img src="icons/non/9ef7dfc0282a2ed0dfd37bc16fd15bb5.png" height="25px" width="25px"> | [Helix](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Helix/Helix.md) |
-| <img src="icons/non/26260a4f7f1e95d188a99210fb2ae693.png" height="25px" width="25px"> | SmartHire |
+| <img src="icons/non/26260a4f7f1e95d188a99210fb2ae693.png" height="25px" width="25px"> | [SmartHire](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/SmartHire/SmartHire.md) |
 | <img src="icons/non/a261b49a-7ddc-4eac-a75a-8fd26a7ff740-1785405255.png" height="25px" width="25px"> | Scaffold |
 | <img src="icons/non/a261b8b2-9dd5-4958-aaac-ca53661ab002-1785405942.png" height="25px" width="25px"> | Management |
 | <img src="icons/non/" height="25px" width="25px"> | n/a |
