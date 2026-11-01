@@ -60,7 +60,7 @@
 | <img src="icons/s12/a2cc2e41-9160-4e35-9d3f-8eb1e98cdf77-1789978330.png" height="25px" width="25px"> | Stream |
 | <img src="icons/s12/a2ccae76-9dec-4da0-a15f-e879aaffd0ca-1789999840.png" height="25px" width="25px"> | Autopilot |
 | <img src="icons/s12/a2ccb5d6-1b4e-4e64-bbd0-30ae061102ed-1790001077.png" height="25px" width="25px"> | DutyBound |
-| <img src="icons/s12/a2ccbd04-996d-4d16-8702-e8328fbb7fb9-1790002282.png" height="25px" width="25px"> | Takeoff |
+| <img src="icons/s12/a2ccbd04-996d-4d16-8702-e8328fbb7fb9-1793102158.png" height="25px" width="25px"> | Takeoff |
 | <img src="icons/s12/a2ccc1a4-1b09-482d-adae-2f88e7246c4b-1790003057.png" height="25px" width="25px"> | Unclaimed |
 | <img src="icons/s12/" height="25px" width="25px"> | tba |
 | <img src="icons/s12/" height="25px" width="25px"> | tba |
