@@ -8,9 +8,64 @@
 
 <table>
 <tr>
+  <th>Season 13 <br>tba</th>
+  <th>Season 14 <br>tba</th>
+  <th>Season 15 <br>tba</th>
+</tr>
+<tr>
+<td>
+
+| | |
+| --- | --- |
+| <img src="icons/s13/" height="25px" width="25px"> | tba |
+| <img src="icons/s13/" height="25px" width="25px"> | tba |
+| <img src="icons/s13/" height="25px" width="25px"> | tba |
+| <img src="icons/s13/" height="25px" width="25px"> | tba |
+| <img src="icons/s13/" height="25px" width="25px"> | tba |
+| <img src="icons/s13/" height="25px" width="25px"> | tba |
+| <img src="icons/s13/" height="25px" width="25px"> | tba |
+| <img src="icons/s13/" height="25px" width="25px"> | tba |
+| <img src="icons/s13/" height="25px" width="25px"> | tba |
+
+</td>
+<td>
+
+| | |
+| --- | --- |
+| <img src="icons/s14/" height="25px" width="25px"> | tba |
+| <img src="icons/s14/" height="25px" width="25px"> | tba |
+| <img src="icons/s14/" height="25px" width="25px"> | tba |
+| <img src="icons/s14/" height="25px" width="25px"> | tba |
+| <img src="icons/s14/" height="25px" width="25px"> | tba |
+| <img src="icons/s14/" height="25px" width="25px"> | tba |
+| <img src="icons/s14/" height="25px" width="25px"> | tba |
+| <img src="icons/s14/" height="25px" width="25px"> | tba |
+| <img src="icons/s14/" height="25px" width="25px"> | tba |
+
+</td>
+<td>
+  
+| | |
+| --- | --- |
+| <img src="icons/s15/" height="25px" width="25px"> | tba |
+| <img src="icons/s15/" height="25px" width="25px"> | tba |
+| <img src="icons/s15/" height="25px" width="25px"> | tba |
+| <img src="icons/s15/" height="25px" width="25px"> | tba |
+| <img src="icons/s15/" height="25px" width="25px"> | tba |
+| <img src="icons/s15/" height="25px" width="25px"> | tba |
+| <img src="icons/s15/" height="25px" width="25px"> | tba |
+| <img src="icons/s15/" height="25px" width="25px"> | tba |
+| <img src="icons/s15/" height="25px" width="25px"> | tba |
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
   <th>Season 10 <br>Jan 2026 - Apr 2026</th>
   <th>Season 11 <br>May 2026 - Sep 2026</th>
-  <th>Season 12 <br>Oct 2026</th>
+  <th>Season 12 <br>Oct 2026 - Nov 2026</th>
 </tr>
 <tr>
 <td>
@@ -62,12 +117,8 @@
 | <img src="icons/s12/a2ccb5d6-1b4e-4e64-bbd0-30ae061102ed-1790001077.png" height="25px" width="25px"> | DutyBound |
 | <img src="icons/s12/a2ccbd04-996d-4d16-8702-e8328fbb7fb9-1793102158.png" height="25px" width="25px"> | Takeoff |
 | <img src="icons/s12/a2ccc1a4-1b09-482d-adae-2f88e7246c4b-1790003057.png" height="25px" width="25px"> | Unclaimed |
-| <img src="icons/s12/" height="25px" width="25px"> | tba |
-| <img src="icons/s12/" height="25px" width="25px"> | tba |
-| <img src="icons/s12/" height="25px" width="25px"> | tba |
-| <img src="icons/s12/" height="25px" width="25px"> | tba |
-| <img src="icons/s12/" height="25px" width="25px"> | tba |
-| <img src="icons/s12/" height="25px" width="25px"> | tba |
+| <img src="icons/s12/a32eea97-21a6-4704-a7ca-5db66d1ceb0d-1794219143.png" height="25px" width="25px"> | RedEye |
+| <img src="icons/s12/a32f3339-1d5f-48c5-85dd-fc8988817133-1794237322.png" height="25px" width="25px"> | Handler |
 
 </td>
 </tr>
