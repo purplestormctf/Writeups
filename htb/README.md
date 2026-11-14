@@ -95,7 +95,7 @@
 | <img src="icons/s11/8e821c7bbdb90d8520bb597edae70080.png" height="25px" width="25px"> | [DevHub](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/DevHub/DevHub.md) |
 | <img src="icons/s11/5f828febf436aa997dff714a184614fe.png" height="25px" width="25px"> | Connected |
 | <img src="icons/s11/d90d9ba3228fb458485c03a1b4c2f6e5.png" height="25px" width="25px"> | [Checkpoint](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Checkpoint/Checkpoint.md) |
-| <img src="icons/s11/01d07f853ff5e6e4a23bf2e649de81e8.png" height="25px" width="25px"> | Nimbus |
+| <img src="icons/s11/01d07f853ff5e6e4a23bf2e649de81e8.png" height="25px" width="25px"> | [Nimbus](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/Nimbus/Nimbus.md) |
 | <img src="icons/s11/131f520bad7d91e8bb5d3c11654467dd.png" height="25px" width="25px"> | Enigma |
 | <img src="icons/s11/bd5ffc0669be97a5d61c3117efb657c6.png" height="25px" width="25px"> | [MakeSense](https://github.com/purplestormctf/Writeups/blob/main/htb/machines/MakeSense/MakeSense.md) |
 | <img src="icons/s11/a0f93198adfbe423b71b994ad3a5753f.png" height="25px" width="25px"> | Paperwork |
